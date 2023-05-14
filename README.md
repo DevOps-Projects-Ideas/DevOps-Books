@@ -17,6 +17,7 @@ This repository contains a collection of books on DevOps. These books cover a wi
 
 ## Categories
 
+[Ansible](Ansible)
 [AWS](AWS)
 
 ## 🛡️ License
