@@ -17,6 +17,9 @@ This repository contains a collection of books on DevOps. These books cover a wi
 
 ## Categories
 
+[Ansible](Ansible)
+[AWS](AWS)
+
 ## 🛡️ License
 
 LogIQ is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
