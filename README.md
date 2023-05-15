@@ -21,6 +21,8 @@ This repository contains a collection of books on DevOps. These books cover a wi
 - [AWS](AWS)
 - [Azure](Azure)
 - [Bash](Bash)
+- [Chef](Chef)
+- [Cloud Computing](Cloud Computing)
 
 ## 🛡️ License
 
