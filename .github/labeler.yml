@@ -1,0 +1,11 @@
+'category: Ansible':
+  - Ansible/**/*
+  
+'category: AWS':
+  - AWS/**/*
+
+'category: Azure':
+  - Azure/**/*
+
+'category: Bash':
+  - Bash/**/*
