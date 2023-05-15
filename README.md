@@ -23,6 +23,10 @@ This repository contains a collection of books on DevOps. These books cover a wi
 - [Bash](Bash)
 - [Chef](Chef)
 - [Cloud Computing](Cloud%20Computing)
+- [Containers](Containers)
+- [DevOps](DevOps)
+- [DevOps Projects](DevOps%20Projects)
+- [Docker](Docker)
 
 ## 🛡️ License
 
