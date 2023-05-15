@@ -19,6 +19,8 @@ This repository contains a collection of books on DevOps. These books cover a wi
 
 - [Ansible](Ansible)
 - [AWS](AWS)
+- [Azure](Azure)
+- [Bash](Bash)
 
 ## 🛡️ License
 
