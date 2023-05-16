@@ -27,6 +27,12 @@ This repository contains a collection of books on DevOps. These books cover a wi
 - [DevOps](DevOps)
 - [DevOps Projects](DevOps%20Projects)
 - [Docker](Docker)
+- [Git](Git)
+- [GitHub](GitHub)
+- [GitHub Actions](Github%20Actions)
+- [GitLab](GitLab)
+- [Google Cloud Provider](Google%20Cloud%20Provider)
+- [Gradle](Gradle)
 
 ## 🛡️ License
 
