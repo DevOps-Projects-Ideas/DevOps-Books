@@ -1,0 +1,797 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/questions-new-developers-ask-when-learning-how-to-code/amp/
+Subject: 7 Questions New Developers Ask When Learning How to Code
+Date: Wed, 17 Nov 2021 07:22:02 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ZGAndevhDrmSssjuhz5WJuDbmLSgduCbEkS7GijD8w----"
+
+
+------MultipartBoundary--ZGAndevhDrmSssjuhz5WJuDbmLSgduCbEkS7GijD8w----
+Content-Type: text/html
+Content-ID: <frame-A3E95FB70D65F692C4D7CC8BBAA995F8@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/questions-new-developers-ask-when-learning-how-to-code/amp/
+
+<!DOCTYPE html><html i-amphtml-layout="" i-amphtml-no-boilerplate="" transformed="google;v=8" âš¡="" amp-version="2111060251003" class="i-amphtml-singledoc i-amphtml-standalone"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-bae232e5-22d4-4339-91ae-c081bf64bf44@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-89a3ba5c-ba5c-488b-8ed6-92f4d2856534@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-aeaed612-82d0-4b9c-8a56-559a59dc1086@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-fbd746d8-0f8b-4f54-aefc-272b12aa6323@mhtml.blink" /><meta content="width=device-width,minimum-scale=1,initial-scale=1" name="viewport"><meta content="no-referrer-when-downgrade" name="referrer"><meta content="freeCodeCamp.org" property="og:site_name"><meta content="article" property="og:type"><meta content="7 Questions New Developers Ask When Learning How to Code" property="og:title"><meta content="If you're relatively new to coding, you surely have some questions â€“ how should you get started, what should you learn first, what does &quot;front-end development&quot; really mean...? In this article, I've shared 7 questions I had when I first started learning to code about 20 years ago (man, now I" property="og:description"><meta content="https://www.freecodecamp.org/news/questions-new-developers-ask-when-learning-how-to-code/" property="og:url"><meta content="https://www.freecodecamp.org/news/content/images/2021/11/7-questions-new-developers-ask.png" property="og:image"><meta content="summary_large_image" name="twitter:card"><meta content="7 Questions New Developers Ask When Learning How to Code" name="twitter:title"><meta content="If you're relatively new to coding, you surely have some questions â€“ how should you get started, what should you learn first, what does &quot;front-end development&quot; really mean...? In this article, I've shared 7 questions I had when I first started learning to code about 20 years ago (man, now I" name="twitter:description"><meta content="https://www.freecodecamp.org/news/questions-new-developers-ask-when-learning-how-to-code/" name="twitter:url"><meta content="https://www.freecodecamp.org/news/content/images/2021/11/7-questions-new-developers-ask.png" name="twitter:image"><meta content="Written by" name="twitter:label1"><meta content="Jacob Stopak" name="twitter:data1"><meta content="Filed under" name="twitter:label2"><meta content="Learning To Code, Programming Languages, Beginners Guide" name="twitter:data2"><meta content="@freecodecamp" name="twitter:site"><meta content="@initcommit" name="twitter:creator"><meta content="1920" property="og:image:width"><meta content="1080" property="og:image:height"><meta content="noindex" name="robots"><meta content="freecodecamp.org" name="amp-cookie-scope"><meta content="7=2,11=2" name="amp-usqp"><link href="https://www-freecodecamp-org.cdn.ampproject.org/i/s/www.freecodecamp.org/news/favicon.png" rel="icon" type="image/png"><link crossorigin="" href="https://fonts.gstatic.com/" rel="dns-prefetch preconnect"><link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,700,700i&amp;display=swap&amp;cls_fallback=false" rel="stylesheet" type="text/css"><title>7 Questions New Developers Ask When Learning How to Code</title><link href="https://www.freecodecamp.org/news/questions-new-developers-ask-when-learning-how-to-code/" rel="canonical"><meta content="2" name="runtime-type"></head><body class="amp-template amp-mode-touch" style="opacity: 1; visibility: visible; animation: 0s ease 0s 1 normal none running none;">
+    <header class="main-header">
+        <nav class="blog-title">
+            <a class="logo" href="https://www.freecodecamp.org/news" target="_top">
+                <amp-img alt="freeCodeCamp.org" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-element i-amphtml-built i-amphtml-layout" height="24px" i-amphtml-layout="fixed" layout="fixed" src="https://www-freecodecamp-org.cdn.ampproject.org/i/s/www.freecodecamp.org/news/content/images/2019/11/fcc_primary_large_24X210.svg" srcset="https://www-freecodecamp-org.cdn.ampproject.org/ii/w220/s/www.freecodecamp.org/news/content/images/2019/11/fcc_primary_large_24X210.svg 220w, https://www-freecodecamp-org.cdn.ampproject.org/ii/w470/s/www.freecodecamp.org/news/content/images/2019/11/fcc_primary_large_24X210.svg 470w, https://www-freecodecamp-org.cdn.ampproject.org/ii/w680/s/www.freecodecamp.org/news/content/images/2019/11/fcc_primary_large_24X210.svg 680w" style="width: 210px; height: 24px; --loader-delay-offset:600ms !important;" width="210px" i-amphtml-auto-lightbox-visited="">
+                <img decoding="async" alt="freeCodeCamp.org" src="https://www-freecodecamp-org.cdn.ampproject.org/i/s/www.freecodecamp.org/news/content/images/2019/11/fcc_primary_large_24X210.svg" class="i-amphtml-fill-content i-amphtml-replaced-content" i-amphtml-auto-lightbox-visited="" width="210" height="24"></amp-img>
+                </a>
+        </nav>
+    </header>
+
+    <main class="content" role="main">
+        <article class="post">
+
+            <header class="post-header">
+                <h1 class="post-title">7 Questions New Developers Ask When Learning How to Code</h1>
+                <section class="post-meta">
+                    <p class="author">by <a href="https://www.freecodecamp.org/news/author/initialcommit/" target="_top">Jacob Stopak</a></p>
+                    <time class="post-date" datetime="November 15, 2021">November 15, 2021</time>
+                </section>
+            </header>
+            <figure class="post-image">
+                <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined i-amphtml-element i-amphtml-built i-amphtml-layout" height="400" i-amphtml-layout="responsive" i-amphtml-ssr="" layout="responsive" src="https://www-freecodecamp-org.cdn.ampproject.org/i/s/www.freecodecamp.org/news/content/images/2021/11/7-questions-new-developers-ask.png" srcset="https://www-freecodecamp-org.cdn.ampproject.org/ii/w680/s/www.freecodecamp.org/news/content/images/2021/11/7-questions-new-developers-ask.png 680w, https://www-freecodecamp-org.cdn.ampproject.org/ii/w820/s/www.freecodecamp.org/news/content/images/2021/11/7-questions-new-developers-ask.png 820w" width="600" i-amphtml-auto-lightbox-visited="" lightbox="i-amphtml-auto-lightbox-0"><i-amphtml-sizer slot="i-amphtml-svc" style="display:block;padding-top:66.6667%;"></i-amphtml-sizer><img class="i-amphtml-blurry-placeholder" placeholder="" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' xmlns%3Axlink='http%3A//www.w3.org/1999/xlink' viewBox='0 0 9 6'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='.5'%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type='discrete' tableValues='1 1'%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' xlink%3Ahref='data%3Aimage/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAGCAIAAACepSOSAAAARklEQVQImWNYe+MZLsRAQG7RsXPdC+dOWrtmwqoVM7bt6Fk0b/bu/VC5hUdOA0WBqG/Zkpnbd/WvWLbwyBl0M1dffUSsfQC+qHxHj8tciwAAAABJRU5ErkJggg=='%3E%3C/image%3E%3C/svg%3E" style="opacity: 0 !important;" i-amphtml-auto-lightbox-visited=""><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" src="https://www-freecodecamp-org.cdn.ampproject.org/i/s/www.freecodecamp.org/news/content/images/2021/11/7-questions-new-developers-ask.png" i-amphtml-auto-lightbox-visited="" width="361" height="241"></amp-img>
+            </figure>
+
+            <section class="post-content">
+                <p>If you're relatively new to coding, you surely have some questions â€“ how should you get started, what should you learn first, what does "front-end development" really mean...?</p><p>In this article, I've shared 7 questions I had when I first started learning to code about 20 years ago (man, now I feel old). And I've answered them as thoroughly as possible to help you start your coding journey.</p><h2 id="what-programming-language-should-i-learn-first">What programming language should I learn first?</h2><p>In my opinion, it doesn't really matter! There are certainly languages that are easier for beginners to pick up, such as Python, Ruby, or JavaScript. But most programming languages have a plethora of things in common, and the core concepts are usually fairly similar. </p><p>In most cases, the <em>syntax</em> (the keywords, structure, and semantics) of languages differ much more than the underlying concepts.</p><p>Once you know the basics of any programming language, it becomes a lot easier to pick up another one. It is also likely that the language you learn first won't be the central one you end up using at your job or side hustle. </p><p>For example, I started with Python back in the day, dabbled with JavaScript and PhP, but now use Java for my job and side hustle.</p><p>Of course, you probably don't want to start by learning some obscure and difficult language that isn't commonly used. But you really can't go wrong by starting with a popular modern language like Python, Java, Ruby, or JavaScript.</p><p>The most important part isn't what language you learn first, but that you <em>actually start</em> and incrementally improve your skills over time. In a nutshell, <a href="https://initialcommit.com/store/coding-essentials-guidebook-for-developers" target="_top">focus on mastering essential coding concepts</a> as opposed to the syntax of a specific language.</p><h2 id="how-do-we-categorize-programming-languages">How do we categorize programming languages?</h2><p>Although most programming languages have a lot in common, there are many ways to organize languages into various categories. </p><p>These categories are used to group together languages with a particular feature or trait, although two languages with an overlapping trait might very well differ with respect to others.</p><p>Here are 5 of the most useful programming language categories for new devs to know about:</p><ul><li>Compiled programming languages</li><li>Interpreted programming languages</li><li>Statically-typed programming languages</li><li>Dynamically-typed programming languages</li><li>Object-oriented programming languages</li></ul><p>Below, is a short description of each of these categories, along with a short list of languages in each one.</p><h3 id="compiled-programming-languages">Compiled programming languages</h3><p>A compiled language is one that uses a <strong>compiler</strong> to convert source code (the code you write yourself) into a form the computer knows how to understand (often called <strong>machine code</strong>).</p><p>Usually, the output from the compiler is saved in one or more files called<strong> executables</strong>. Executables can be packaged for sale and distribution in standard formats that make it easy for users to download, install, and run the program. </p><p>An important characteristic of the compiling process is that the source code is compiled <em>before </em>the program is executed by the end user. In other words, code compilation typically takes place separately from program execution.</p><p>Popular compiled languages:</p><ul><li>C</li><li>C++</li><li>Java</li><li>Rust</li><li>Go</li></ul><h3 id="interpreted-programming-languages">Interpreted programming languages</h3><p>An interpreted language is one that uses an <strong>interpreter</strong> to convert source code (the code you write yourself) into a form the computer knows how to understand.</p><p>An interpreter is a program that takes a set of source code written in a specific programming language, converts it into a form the computer can understand, and immediately executes it in real-time.</p><p>A primary difference between compiling and interpreting is that the interpreting process has no gap between code conversion and execution â€“ both of these steps happen at program run time or on-the-fly. Whereas with compiling, the code conversion takes place in advance (sometimes far in advance) of program execution.</p><p>Popular interpreted languages:</p><ul><li>Python</li><li>JavaScript</li><li>Ruby</li></ul><h3 id="statically-typed-programming-languages">Statically-typed programming languages</h3><p>Static-typing means that the data types of the variables in a programming language are known and established at the time the program is compiled. Furthermore, the datatype of a variable is not allowed to change during program compilation or execution.</p><p>For example, each time you create a variable in a statically-typed language, you must explicitly specify the datatype of that variable. This datatype could be an integer, string, boolean, and so on. This is called variable <strong>declaration</strong>. Once you declare a variableâ€™s data type, it can only hold that type of data throughout the execution of the program.</p><p>Popular statically-typed languages:</p><ul><li>C</li><li>C++</li><li>Java</li></ul><h3 id="dynamically-typed-programming-languages">Dynamically-typed programming languages</h3><p>Dynamic-typing means variable data types are established during program execution, also known as <strong>runtime</strong>.</p><p>Variable data types are not explicitly stated in the source code and variables can be easily reassigned to store values of any datatype on the fly.</p><p>Popular dynamically-typed languages:</p><ul><li>Python</li><li>JavaScript</li><li>Ruby</li></ul><h3 id="object-oriented-programming-languages">Object-oriented programming languages</h3><p>Object-oriented programming (OOP) is a coding paradigm that allows programmers to create and work with "objects". An object is a representation or model of something the programmer needs to describe via code.</p><p>This probably sounds super vague, because it is. Pretty much anything can be modeled as an "object" in code. Objects often represent real things, such as the products for sale in a store or the customers buying those products. </p><p>But objects can also represent digital things such as web forms, and even more abstract stuff like URL endpoints, network sockets, and so on.</p><p>Object-oriented programming is usually implemented in a language using <strong>Classes</strong>. You can think of a class as a template (or model) for the type of object that is being created. </p><p>A class contains a set of <strong>attributes</strong> (properties or characteristics) that define each object of the class. Classes also contain a set of <strong>methods</strong> (functions) that allow operations to be performed on specific objects of the class.</p><p>For example, a "Product" class might have the following attributes:</p><ul><li>Product SKU (unique identifier for each product)</li><li>Product name (descriptive name for each product)</li><li>Product type</li><li>Product price</li><li>Product discount</li></ul><p>As mentioned, a class is really just a template for <em>creating objects</em>. Creating an object using a class as a template is known as <strong>instantiation</strong>. You can create as many objects as you want from the same class, and each object created is known as an <strong>instance</strong> of that class. The instance is usually stored as a variable in code that you can use as you need it by interacting with its attributes and methods.</p><p>Continuing with our example, you can use our "Product" class above to create multiple objects of type "Product". Each product would have its own set of attribute values, such as SKU, name, type, price, and discount.</p><p>Representing structured sets of data in this object-oriented fashion can be a very intuitive way for programmers to write and organize their code. This is likely because humans tend to be naturally good at thinking in terms of identifiable entities that exist in the real world.</p><h2 id="what-s-the-difference-between-front-end-back-end-and-full-stack-development">What's the difference between front-end, back-end, and full-stack development?</h2><p>As a newer dev, you've likely browsed job opportunities in tech and noticed frequent mention of the terms "front-end", "back-end" and "full-stack".</p><p>These terms generally refer to the part of the application you'll be working on. Moreover, they also imply that you'll be working on a software application, usually a web application or mobile app.</p><p>The front end refers to the parts of the application that users (also known as "clients") interact with directly. For a web application, the front end is the collection of webpages (and functionality) that are presented in the user's browser. For a mobile app, the front end is the set of screens that the user interacts with on their mobile device.</p><p>Development tasks related to the front end include user experience design, user interface creation, client-side networking, integration and use of client-side libraries, and collecting/validating/submitting user input. </p><p>As a front-end dev, you'll implement these tasks primarily using HTML to define the structure of web pages, CSS to add styling, and JavaScript to add interactivity.</p><p>The back end refers to the parts of the application that run behind the scenes and aren't presented directly to the user/client. </p><p>The back end typically includes a web server which handles HTTP connections received from the front-end client (usually a web browser). The web server handles these connections and directs them to the back-end code which performs the logic necessary to respond to the client. This part of the back end is called <strong>routing</strong> or the <strong>API (application programming interface)</strong>.</p><p>The back-end code itself is traditionally a standalone monolith codebase that is deployed as a single unit. But depending on the application's architecture, the back-end code can operate as a set of <strong>serverless</strong> functions running on a cloud service as opposed to a standalone codebase.</p><p>The back-end code validates user input, applies business logic, interacts with data storage such as a database, and crafts a response that gets sent back to the front-end client.</p><p>Now that we've covered the front end and back end, full-stack development is easy! :) Full stack simply includes both the front end AND back end! The term "full stack" comes from the term "stack" which is a shortened form of "software stack". The software stack is the collection of tools, frameworks, programming languages, and operating systems that are used to support an application.</p><h2 id="what-are-some-popular-software-stacks">What are some popular software stacks?</h2><p>Now that we know what a software stack is, we'll briefly discuss some popular options for you to choose from.</p><h3 id="lamp-stack-linux-apache-mysql-php-">LAMP Stack (Linux, Apache, MySQL, PHP)</h3><p>The LAMP stack is a time-tested and industry standard back-end stack that uses the Linux operating system as its foundation. On top of that, you use an Apache webserver to handle web requests and direct them to a PHP codebase. Data is stored in a MySQL database, which is a free and open-source (FOSS) relational database platform.</p><p>This stack is great for fairly standardized content-serving websites like blogs.</p><p>You might notice that I didn't explicitly mention any front-end tools as being a part of this stack â€“ so this means that LAMP is a back-end stack.</p><h3 id="mean-stack-mongodb-express-js-angular-js-node-js-">MEAN Stack (MongoDB, Express.js, Angular.js, Node.js)</h3><p>The MEAN stack is a more modern stack that uses the MongoDB unstructured database platform for storing data. You use Express.js as the back-end web framework and Angular.js for the front end. Finally, you use Node.js to run JavaScript on the back end.</p><p>A major benefit of the MEAN stack is that all components are designed to natively operate using the JavaScript programming language, via JSON (JavaScript Object Notation).</p><p>Note that this stack's components are geared toward both the front end (Angular.js) and back end (MongoDB, Express.js, Node.js), so MEAN can be considered full stack.</p><h3 id="mern-stack-mongodb-express-js-react-js-node-js-">MERN Stack (MongoDB, Express.js, React.js, Node.js)</h3><p>As you can probably see, the MERN stack is very similar to the MEAN stack except it uses React.js library as the front end instead of Angular.js.</p><p>This stack is well suited to devs who like React for its flexible and intuitive style of creating user interfaces.</p><h3 id="notable-frameworks">Notable frameworks</h3><p>I wanted to take a brief moment to point out two other popular backend <em>frameworks</em> (not stacks) that you can incorporate or swap out for specific components of the stacks mentioned above.</p><p><strong>Spring Boot</strong> is a Java framework (technically a special case of the broader Spring Framework) that is excellent for developing back-end Java code for web applications and mobile apps. If you are new to Java coding, I highly recommend you check it out.</p><p><strong>Django</strong> is a Python framework that is specifically crafted for use with the Python programming language. If you prefer building web apps in Python, it is definitely worth looking into.</p><h2 id="how-do-devs-collaborate-on-code-without-being-in-the-same-room">How do devs collaborate on code without being in the same room?</h2><p>When I started coding, I opened up a Python text editor on my local machine and created a single file which grew to contain all the code for my project. I quickly found that this became unruly, so I split my code up into several Python <code>.py</code> files (or modules as they are known).</p><p>When I coded with a friend, they would usually be sitting there behind me while I typed, or I would be sitting there behind them. If we needed to exchange code snippets or files, we would just send them back and forth via email.</p><p>It was years before I learned how devs successfully collaborate while coding, and that it is often done remotely.</p><p>The key to successful code collaboration is learning to use a <strong>Version Control System (VCS)</strong>. A VCS is a tool that tracks changes that multiple developers make to code files over time, and enables developers to efficiently work together on the same set files.</p><p>Version control systems create a <strong>repository</strong> that stores the data necessary to recreate any version of the code files as they existed at specific points in time. This is called <strong>version control</strong>. </p><p>Version control systems are very versatile tools, since they serve multiple useful functions for development teams:</p><ul><li>Tracks changes made to code files</li><li>Allows devs to easily share their changes with others and access changes made by others</li><li>Offers simple ways for merging code changes made by multiple devs or teams </li><li>Provides a full-history backup of a project's code as it evolves over time, and a way to efficiently restore any previous version of the code</li><li>Allows developers to easily manage code conflicts made on the same lines of the same files</li><li>Provides various other tools to improve team collaboration and efficiency</li></ul><p><a href="https://initialcommit.com/blog/Technical-Guide-VCS-Internals" target="_top">There are many version control systems out there</a>, but you've almost certainly heard of one: GitHub.</p><p>Actually, GitHub itself is <em>not</em> a version control system. GitHub is a company that provides online hosting for projects using version control. GitHub gets its name from the specific version control system that it uses: <strong>Git</strong>.</p><p><a href="https://initialcommit.com/store/baby-git-guidebook-for-developers" target="_top">The first version of Git</a> was created in 2005, and it has evolved into by far the most well-known and most popular version control system on the planet. Git is used by the vast majority of development teams today, and it is an <a href="https://initialcommit.com/store/coding-essentials-guidebook-for-developers" target="_top">essential tool to learn if you plan on coding professionally</a>.</p><h2 id="does-it-matter-what-operating-system-i-use">Does it matter what operating system I use?</h2><p>When it comes to learning to code for the first time, I would answer this question similarly to the first in this list. I think what matters much more than which operating system you have, is that you get started learning as soon as possible with what you have.</p><p>That being said, I feel my answer would be a cop-out if I leave it at that. Let's assume you're trying to make an active decision about what OS to choose for coding work.</p><p>Taking into account the fact that there are many subjective reasons people prefer <em>their</em> operating system, in my opinion an operating system that provides access to a quality command-line terminal can be very useful to wrap your head around. </p><p>For that reason, my preference is using <a href="https://en.wikipedia.org/wiki/Unix-like" target="_top">Unix-like</a> operating systems such as a Linux flavor or MacOS if possible for development work. Full disclosure â€“ I develop mostly on MacOS.</p><p>My reasoning for this is that learning to work on the command-line (much like learning to use Git) is an <a href="https://www.freecodecamp.org/news/how-to-learn-programming/" target="_top">essential coding skill to learn</a>. A fully featured and intuitive command line is a core part of software development. In my opinion, Linux and MacOS better incorporate modern command lines than Windows.</p><h2 id="what-text-editor-or-ide-should-i-use">What text editor or IDE should I use?</h2><p>Text editors and IDE's (Integrated Development Environments) have evolved massively over the years, and developers pick favorites for many reasons.</p><p>One reason could be that a particular editor or IDE was created specifically for a particular programming language or framework. Another could be that your company uses a specific editor, so that is the one you learned and stuck with. I found this reason to be especially true in my experience.</p><p>If you are primarily working with interpreted, dynamically-typed languages such as Python, JavaScript, Ruby, or PHP, I recommend that you start with a GUI-based editor such as Sublime Text or Visual Studio Code. These are two of the most popular text editors out there and provide a plethora of features and customizations to make your life easier as a developer.</p><p>If you work with Java, I recommend either Eclipse or IntelliJ IDEA which offer a multitude of features specifically crafted for working in the Java ecosystem.</p><p>Finally, regardless of which editor you choose for your main dev work, I recommend that you learn <a href="https://initialcommit.com/blog/7-versatile-vim-commands" target="_top">a bit of Vim</a>. Vim is a text editor that is meant to be used directly within your command-line terminal. It definitely takes more time to get used to since you have to learn to use Vim's keyboard commands to interact with your files instead of point-and-click with your mouse.</p><p>But in my experience is well worth it. Even if you only learn the basic commands, these will help you immensely if you find yourself browsing through a non-GUI terminal at work, and need to inspect or modify some files.</p><p>I highly recommend the built-in Vimtutor program that is downloaded automatically when you install Vim. It walks through the basic directly in your command-line terminal.</p><h2 id="summary">Summary</h2><p>In this article, I discussed 7 questions commonly asked by new coders. We cast a fairly wide net, covering questions about programmings language selection, software dev stacks, operating systems, and text editors.</p><p>If there are any questions you have that I didn't cover, feel free to message me at <a href="mailto:jacob@initialcommit.io" target="_top">jacob@initialcommit.io</a>.</p><h2 id="next-steps">Next steps</h2><p>If you got value out of this article, I wrote a book called <a href="https://initialcommit.com/store/coding-essentials-guidebook-for-developers" target="_top">Coding Essentials Guidebook for Developers</a> which has 14 chapters, each covering a core coding concept, language, or tool.</p><p>Topics include computer architecture, the Internet, Command Line, HTML, CSS, JavaScript, Python, Java, SQL, Git, and more.</p><p>These topics were meticulously selected to help put together a bigger picture of the development puzzle, instead of focusing on one topic in depth. This might be a good resource for you to check out if you got value out of this article.</p>
+            </section>
+
+        </article>
+    </main>
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="https://www.freecodecamp.org/news" target="_top">freeCodeCamp.org</a> Â© 2021</section>
+    </footer>
+
+
+</body></html>
+------MultipartBoundary--ZGAndevhDrmSssjuhz5WJuDbmLSgduCbEkS7GijD8w----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-bae232e5-22d4-4339-91ae-c081bf64bf44@mhtml.blink
+
+@charset "utf-8";
+
+html { overflow-x: hidden !important; }
+
+html.i-amphtml-fie { height: 100% !important; width: 100% !important; }
+
+html:not([amp4ads]), html:not([amp4ads]) body { height: auto !important; }
+
+html:not([amp4ads]) body { margin: 0px !important; }
+
+body { text-size-adjust: 100%; }
+
+html.i-amphtml-singledoc.i-amphtml-embedded { touch-action: pan-y pinch-zoom; }
+
+html.i-amphtml-fie > body, html.i-amphtml-singledoc > body { overflow: visible !important; }
+
+html.i-amphtml-fie:not(.i-amphtml-inabox) > body, html.i-amphtml-singledoc:not(.i-amphtml-inabox) > body { position: relative !important; }
+
+html.i-amphtml-ios-embed-legacy > body { overflow: hidden auto !important; position: absolute !important; }
+
+html.i-amphtml-ios-embed { position: static; overflow-y: auto !important; }
+
+#i-amphtml-wrapper { overflow: hidden auto !important; position: absolute !important; inset: 0px !important; margin: 0px !important; display: block !important; }
+
+html.i-amphtml-ios-embed.i-amphtml-ios-overscroll, html.i-amphtml-ios-embed.i-amphtml-ios-overscroll > #i-amphtml-wrapper { }
+
+#i-amphtml-wrapper > body { position: relative !important; border-top: 1px solid transparent !important; }
+
+#i-amphtml-wrapper + body { visibility: visible; }
+
+#i-amphtml-wrapper + body .i-amphtml-lightbox-element, #i-amphtml-wrapper + body[i-amphtml-lightbox] { visibility: hidden; }
+
+#i-amphtml-wrapper + body[i-amphtml-lightbox] .i-amphtml-lightbox-element { visibility: visible; }
+
+#i-amphtml-wrapper.i-amphtml-scroll-disabled, .i-amphtml-scroll-disabled { overflow: hidden !important; }
+
+amp-instagram { background-color: rgb(255, 255, 255); padding: 54px 0px 0px !important; }
+
+amp-iframe iframe { box-sizing: border-box !important; }
+
+[amp-access][amp-access-hide] { display: none; }
+
+[subscriptions-dialog], body:not(.i-amphtml-subs-ready) [subscriptions-action], body:not(.i-amphtml-subs-ready) [subscriptions-section] { display: none !important; }
+
+amp-experiment, amp-live-list > [update] { display: none; }
+
+amp-list[resizable-children] > .i-amphtml-loading-container.amp-hidden { display: none !important; }
+
+amp-list [fetch-error], amp-list[load-more] [load-more-button], amp-list[load-more] [load-more-end], amp-list[load-more] [load-more-failed], amp-list[load-more] [load-more-loading] { display: none; }
+
+amp-list[diffable] div[role="list"] { display: block; }
+
+amp-story-page, amp-story[standalone] { min-height: 1px !important; display: block !important; height: 100% !important; margin: 0px !important; padding: 0px !important; overflow: hidden !important; width: 100% !important; }
+
+amp-story[standalone] { background-color: rgb(0, 0, 0) !important; position: relative !important; }
+
+amp-story-page { background-color: rgb(117, 117, 117); }
+
+amp-story .amp-active > div, amp-story .i-amphtml-loader-background { display: none !important; }
+
+amp-story-page:not(:first-of-type):not([distance]):not([active]) { transform: translateY(1000vh) !important; }
+
+amp-autocomplete { position: relative !important; display: inline-block !important; }
+
+amp-autocomplete > input, amp-autocomplete > textarea { padding: 0.5rem; border: 1px solid rgba(0, 0, 0, 0.33); }
+
+.i-amphtml-autocomplete-results, amp-autocomplete > input, amp-autocomplete > textarea { font-size: 1rem; line-height: 1.5rem; }
+
+[amp-fx^="fly-in"] { visibility: hidden; }
+
+amp-script[nodom], amp-script[sandboxed] { visibility: hidden; position: fixed !important; top: 0px !important; width: 1px !important; height: 1px !important; overflow: hidden !important; }
+
+[hidden] { display: none !important; }
+
+.i-amphtml-element { display: inline-block; }
+
+.i-amphtml-blurry-placeholder { pointer-events: none; transition: opacity 0.3s cubic-bezier(0, 0, 0.2, 1) 0s !important; }
+
+[layout="nodisplay"]:not(.i-amphtml-element) { display: none !important; }
+
+.i-amphtml-layout-fixed, [layout="fixed"][width][height]:not(.i-amphtml-layout-fixed) { display: inline-block; position: relative; }
+
+.i-amphtml-layout-responsive, [layout="responsive"][width][height]:not(.i-amphtml-layout-responsive), [width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive), [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive) { display: block; position: relative; }
+
+.i-amphtml-layout-intrinsic, [layout="intrinsic"][width][height]:not(.i-amphtml-layout-intrinsic) { display: inline-block; position: relative; max-width: 100%; }
+
+.i-amphtml-layout-intrinsic .i-amphtml-sizer { max-width: 100%; }
+
+.i-amphtml-intrinsic-sizer { max-width: 100%; display: block !important; }
+
+.i-amphtml-layout-container, .i-amphtml-layout-fixed-height, [layout="container"], [layout="fixed-height"][height]:not(.i-amphtml-layout-fixed-height) { display: block; position: relative; }
+
+.i-amphtml-layout-fill, .i-amphtml-layout-fill.i-amphtml-notbuilt, [layout="fill"]:not(.i-amphtml-layout-fill), body noscript > * { display: block; position: absolute; inset: 0px; overflow: hidden !important; }
+
+body noscript > * { width: 100%; height: 100%; z-index: 2; position: absolute !important; }
+
+body noscript { display: inline !important; }
+
+.i-amphtml-layout-flex-item, [layout="flex-item"]:not(.i-amphtml-layout-flex-item) { display: block; position: relative; flex: 1 1 auto; }
+
+.i-amphtml-layout-fluid { position: relative; }
+
+.i-amphtml-layout-size-defined { overflow: hidden !important; }
+
+.i-amphtml-layout-awaiting-size { position: absolute !important; top: auto !important; bottom: auto !important; }
+
+i-amphtml-sizer { display: block !important; }
+
+@supports (aspect-ratio:1/1) {
+  i-amphtml-sizer.i-amphtml-disable-ar { display: none !important; }
+}
+
+.i-amphtml-blurry-placeholder, .i-amphtml-fill-content { display: block; height: 0px; max-height: 100%; max-width: 100%; min-height: 100%; min-width: 100%; width: 0px; margin: auto; }
+
+.i-amphtml-layout-size-defined .i-amphtml-fill-content { position: absolute; inset: 0px; }
+
+.i-amphtml-replaced-content, .i-amphtml-screen-reader { padding: 0px !important; border: none !important; }
+
+.i-amphtml-screen-reader { position: fixed !important; top: 0px !important; left: 0px !important; width: 4px !important; height: 4px !important; opacity: 0 !important; overflow: hidden !important; margin: 0px !important; display: block !important; visibility: visible !important; }
+
+.i-amphtml-screen-reader ~ .i-amphtml-screen-reader { left: 8px !important; }
+
+.i-amphtml-screen-reader ~ .i-amphtml-screen-reader ~ .i-amphtml-screen-reader { left: 12px !important; }
+
+.i-amphtml-screen-reader ~ .i-amphtml-screen-reader ~ .i-amphtml-screen-reader ~ .i-amphtml-screen-reader { left: 16px !important; }
+
+.i-amphtml-unresolved { position: relative; overflow: hidden !important; }
+
+.i-amphtml-select-disabled { user-select: none !important; }
+
+.i-amphtml-notbuilt, [layout]:not(.i-amphtml-element), [width][height][heights]:not([layout]):not(.i-amphtml-element), [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element) { position: relative; overflow: hidden !important; color: transparent !important; }
+
+.i-amphtml-notbuilt:not(.i-amphtml-layout-container) > *, [layout]:not([layout="container"]):not(.i-amphtml-element) > *, [width][height][heights]:not([layout]):not(.i-amphtml-element) > *, [width][height][sizes]:not([layout]):not(.i-amphtml-element) > * { display: none; }
+
+amp-img:not(.i-amphtml-element)[i-amphtml-ssr] > img.i-amphtml-fill-content { display: block; }
+
+.i-amphtml-notbuilt:not(.i-amphtml-layout-container), [layout]:not([layout="container"]):not(.i-amphtml-element), [width][height][heights]:not([layout]):not(.i-amphtml-element), [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element) { color: transparent !important; line-height: 0 !important; }
+
+.i-amphtml-ghost { visibility: hidden !important; }
+
+.i-amphtml-element > [placeholder], [layout]:not(.i-amphtml-element) > [placeholder], [width][height][heights]:not([layout]):not(.i-amphtml-element) > [placeholder], [width][height][sizes]:not([layout]):not(.i-amphtml-element) > [placeholder] { display: block; line-height: normal; }
+
+.i-amphtml-element > [placeholder].amp-hidden, .i-amphtml-element > [placeholder].hidden { visibility: hidden; }
+
+.i-amphtml-element:not(.amp-notsupported) > [fallback], .i-amphtml-layout-container > [placeholder].amp-hidden, .i-amphtml-layout-container > [placeholder].hidden { display: none; }
+
+.i-amphtml-layout-size-defined > [fallback], .i-amphtml-layout-size-defined > [placeholder] { z-index: 1; position: absolute !important; inset: 0px !important; }
+
+amp-img[i-amphtml-ssr]:not(.i-amphtml-element) > [placeholder] { z-index: auto; }
+
+.i-amphtml-notbuilt > [placeholder] { display: block !important; }
+
+.i-amphtml-hidden-by-media-query { display: none !important; }
+
+.i-amphtml-element-error { background: red !important; color: rgb(255, 255, 255) !important; position: relative !important; }
+
+.i-amphtml-element-error::before { content: attr(error-message); }
+
+i-amp-scroll-container, i-amphtml-scroll-container { position: absolute; inset: 0px; display: block; }
+
+i-amp-scroll-container.amp-active, i-amphtml-scroll-container.amp-active { overflow: auto; }
+
+.i-amphtml-loading-container { pointer-events: none; z-index: 1; display: block !important; }
+
+.i-amphtml-notbuilt > .i-amphtml-loading-container { display: block !important; }
+
+.i-amphtml-loading-container.amp-hidden { visibility: hidden; }
+
+.i-amphtml-element > [overflow] { cursor: pointer; position: relative; z-index: 2; visibility: hidden; display: initial; line-height: normal; }
+
+.i-amphtml-layout-size-defined > [overflow] { position: absolute; }
+
+.i-amphtml-element > [overflow].amp-visible { visibility: visible; }
+
+template { display: none !important; }
+
+.amp-border-box, .amp-border-box *, .amp-border-box ::after, .amp-border-box ::before { box-sizing: border-box; }
+
+amp-pixel { display: none !important; }
+
+amp-analytics, amp-auto-ads, amp-story-auto-ads { visibility: hidden; position: fixed !important; top: 0px !important; width: 1px !important; height: 1px !important; overflow: hidden !important; }
+
+html.i-amphtml-fie > amp-analytics { position: initial !important; }
+
+[visible-when-invalid]:not(.visible), form [submit-error], form [submit-success], form [submitting] { display: none; }
+
+amp-accordion { display: block !important; }
+
+@media (min-width: 1px) {
+  :where(amp-accordion > section) > :first-child { margin: 0px; background-color: rgb(239, 239, 239); padding-right: 20px; border: 1px solid rgb(223, 223, 223); }
+  :where(amp-accordion > section) > :last-child { margin: 0px; }
+}
+
+amp-accordion > section { float: none !important; }
+
+amp-accordion > section > * { float: none !important; display: block !important; overflow: hidden !important; position: relative !important; }
+
+amp-accordion, amp-accordion > section { margin: 0px; }
+
+amp-accordion:not(.i-amphtml-built) > section > :last-child { display: none !important; }
+
+amp-accordion:not(.i-amphtml-built) > section[expanded] > :last-child { display: block !important; }
+------MultipartBoundary--ZGAndevhDrmSssjuhz5WJuDbmLSgduCbEkS7GijD8w----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-89a3ba5c-ba5c-488b-8ed6-92f4d2856534@mhtml.blink
+
+@charset "utf-8";
+
+.i-amphtml-lbg-caption-scroll { z-index: 1; color: rgb(255, 255, 255); position: absolute !important; left: 0px !important; right: 0px !important; bottom: 0px !important; padding-top: 40px !important; box-sizing: border-box !important; text-shadow: rgba(0, 0, 0, 0.4) 1px 0px 5px !important; overflow: hidden !important; max-height: calc(80px + 3rem) !important; transition: max-height 0.3s ease-out 0s !important; pointer-events: none !important; }
+
+.i-amphtml-lbg-caption-text { padding: 20px !important; pointer-events: all !important; }
+
+.i-amphtml-lbg-caption-text:empty { display: none !important; }
+
+[i-amphtml-lbg-caption-state="clip"] { -webkit-mask-image: linear-gradient(0deg, transparent 0rem, rgba(0, 0, 0, 0.2) 1rem, rgba(0, 0, 0, 0.55) 2rem, rgb(0, 0, 0) 3rem); }
+
+[i-amphtml-lbg-caption-state="expand"] { -webkit-mask-image: linear-gradient(transparent, rgba(0, 0, 0, 0.2) 20px, rgba(0, 0, 0, 0.55) 40px, rgb(0, 0, 0) 60px); overflow-y: auto !important; max-height: 100% !important; transition: max-height 0.7s ease-out 0s !important; }
+
+.i-amphtml-lbg-caption-mask { min-height: 1rem; width: 100% !important; position: fixed !important; bottom: 0px !important; pointer-events: all !important; }
+
+[i-amphtml-lbg-caption-state="clip"] + .i-amphtml-lbg-caption-mask { z-index: 1 !important; background: transparent !important; transition: background-color 0.5s ease-out 0s !important; }
+
+[i-amphtml-lbg-caption-state="expand"] + .i-amphtml-lbg-caption-mask { background-color: rgba(0, 0, 0, 0.4) !important; top: 0px !important; z-index: 0 !important; transition: background-color 0.4s ease-in 0s !important; }
+
+.i-amphtml-lbg[gallery-view] .i-amphtml-lbg-caption { display: none; }
+
+.i-amphtml-lbg-top-bar { background: linear-gradient(rgba(0, 0, 0, 0.3), transparent); position: absolute !important; left: 0px !important; right: 0px !important; top: 0px !important; height: 56px !important; z-index: 1 !important; }
+
+@media (min-width: 1024px) {
+  .i-amphtml-lbg-top-bar { height: 80px !important; }
+}
+
+.i-amphtml-lbg-button { width: 24px; height: 24px; padding: 16px; box-sizing: content-box; position: absolute !important; cursor: pointer !important; }
+
+@media (min-width: 1024px) {
+  .i-amphtml-lbg-button { width: 40px; height: 40px; padding: 20px; }
+}
+
+.i-amphtml-lbg-button::after { content: "" !important; width: 100% !important; height: 100% !important; display: block !important; background-repeat: no-repeat !important; background-position: 50% center !important; }
+
+.i-amphtml-lbg-button[data-action="close"] { top: 0px !important; right: 0px !important; }
+
+.i-amphtml-lbg-button[data-action="close"]::after { background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m6.4 6.4 11.2 11.2zm11.2 0L6.4 17.6z' stroke='%23fff' stroke-width='2' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+
+.i-amphtml-lbg-button[data-action="gallery"] { top: 0px !important; left: 0px !important; }
+
+.i-amphtml-lbg-button[data-action="gallery"]::after { background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23fff'%3E%3Crect x='3' y='3' width='6' height='8' rx='1' ry='1'/%3E%3Crect x='15' y='13' width='6' height='8' rx='1' ry='1'/%3E%3Crect x='11' y='3' width='10' height='8' rx='1' ry='1'/%3E%3Crect x='3' y='13' width='10' height='8' rx='1' ry='1'/%3E%3C/g%3E%3C/svg%3E"); }
+
+.i-amphtml-lbg-button[data-action="slides"] { display: none; top: 0px !important; left: 0px !important; }
+
+.i-amphtml-lbg-button[data-action="slides"]::after { background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='4' y='4' width='16' height='16' rx='1' stroke-width='2' stroke='%23fff' fill='none'/%3E%3Ccircle fill='%23fff' cx='15.5' cy='8.5' r='1.5'/%3E%3Cpath fill='%23fff' d='M5 19v-6l3-3 5 5 3-3 3 3v4z'/%3E%3C/svg%3E"); }
+
+.i-amphtml-lbg-button[data-action="next"], .i-amphtml-lbg-button[data-action="prev"] { width: 40px; height: 40px; padding: 20px; top: 0px !important; bottom: 0px !important; margin: auto !important; filter: drop-shadow(black 0px 0px 1px) !important; }
+
+.i-amphtml-lbg-button[data-action="next"] { right: 0px !important; left: auto !important; }
+
+.i-amphtml-lbg-button[data-action="next"]::after { background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m10 7.4 4.6 4.6-4.6 4.6' fill='none' stroke='%23fff' stroke-width='2' stroke-linejoin='round' stroke-linecap='round'/%3E%3C/svg%3E"); }
+
+.i-amphtml-lbg-button[data-action="prev"] { right: auto !important; left: 0px !important; }
+
+.i-amphtml-lbg-button[data-action="prev"]::after { background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M14 7.4 9.4 12l4.6 4.6' fill='none' stroke='%23fff' stroke-width='2' stroke-linejoin='round' stroke-linecap='round'/%3E%3C/svg%3E"); }
+
+[i-amphtml-lbg-single-item] .i-amphtml-lbg-button[data-action="gallery"], [i-amphtml-lbg-single-item] .i-amphtml-lbg-button[data-action="next"], [i-amphtml-lbg-single-item] .i-amphtml-lbg-button[data-action="prev"] { visibility: hidden !important; }
+
+.i-amphtml-lbg[gallery-view] .i-amphtml-lbg-button[data-action="gallery"], .i-amphtml-lbg[gallery-view] .i-amphtml-lbg-button[data-action="next"], .i-amphtml-lbg[gallery-view] .i-amphtml-lbg-button[data-action="prev"] { display: none !important; }
+
+.i-amphtml-lbg[gallery-view] .i-amphtml-lbg-button[data-action="slides"] { display: block !important; }
+
+[i-amphtml-lbg-fade] { animation-fill-mode: forwards; animation-duration: 400ms; }
+
+[i-amphtml-lbg-fade="in"] { animation-name: fadeIn; }
+
+[i-amphtml-lbg-fade="out"] { animation-name: fadeOut; }
+
+amp-lightbox-gallery[i-amphtml-lbg-fade] { position: relative; z-index: 2147483642; animation-timing-function: cubic-bezier(0.8, 0, 0.2, 1); }
+
+amp-lightbox-gallery .amp-carousel-button { display: none; }
+
+amp-lightbox-gallery amp-carousel { background: transparent !important; }
+
+.i-amphtml-lbg { z-index: 2147483642; position: fixed !important; }
+
+.i-amphtml-lbg, .i-amphtml-lbg-gallery, .i-amphtml-lbg-mask { inset: 0px !important; }
+
+.i-amphtml-lbg-gallery, .i-amphtml-lbg-mask { background-color: rgb(0, 0, 0) !important; position: absolute !important; }
+
+.i-amphtml-lbg-gallery { display: none; top: 56px !important; overflow: auto !important; }
+
+@media (min-width: 1024px) {
+  .i-amphtml-lbg-gallery { top: 80px !important; }
+}
+
+.i-amphtml-lbg-overlay:not([i-amphtml-lbg-fade]) { opacity: 0; visibility: hidden; }
+
+.i-amphtml-lbg-overlay[i-amphtml-lbg-fade="in"] { animation-timing-function: ease-in; }
+
+.i-amphtml-lbg-overlay[i-amphtml-lbg-fade="out"] { animation-timing-function: linear; }
+
+.i-amphtml-lbg[gallery-view] .i-amphtml-lbg-gallery { grid-template-columns: repeat(3, 1fr); padding: 5px; display: grid !important; justify-content: center !important; gap: 5px !important; grid-auto-rows: min-content !important; }
+
+@media (min-width: 1024px) {
+  .i-amphtml-lbg[gallery-view] .i-amphtml-lbg-gallery { grid-template-columns: repeat(4, 249.75px); }
+}
+
+.i-amphtml-lbg-gallery-thumbnail { position: relative !important; padding-top: 100% !important; }
+
+.i-amphtml-lbg-gallery-thumbnail-img { width: 100% !important; height: 100% !important; position: absolute !important; top: 0px !important; object-fit: cover !important; cursor: pointer !important; }
+
+.i-amphtml-lbg-thumbnail-timestamp-container { background-color: rgb(41, 45, 51); color: rgb(255, 255, 255); position: absolute; bottom: 10px; left: 10px; height: 20px; border-radius: 2px; opacity: 0.8; width: 20px; }
+
+.i-amphtml-lbg-thumbnail-timestamp-container.i-amphtml-lbg-has-timestamp { font-size: 12px; padding: 0px 5px 0px 18px; line-height: 1.3rem; width: auto; }
+
+.i-amphtml-lbg-thumbnail-play-icon { background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23fff'%3E%3Cpath d='M8 5v14l11-7z'/%3E%3Cpath d='M0 0h24v24H0z' fill='none'/%3E%3C/svg%3E"); height: 16px; width: 16px; position: absolute; left: 2px; bottom: 2px; }
+
+amp-lightbox-gallery .i-amphtml-slide-item > * { height: auto; }
+
+@keyframes fadeIn { 
+  0% { opacity: 0; }
+  100% { opacity: 1; visibility: visible; }
+}
+
+@keyframes fadeOut { 
+  0% { opacity: 1; }
+  100% { opacity: 0; visibility: hidden; }
+}
+------MultipartBoundary--ZGAndevhDrmSssjuhz5WJuDbmLSgduCbEkS7GijD8w----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-aeaed612-82d0-4b9c-8a56-559a59dc1086@mhtml.blink
+
+@charset "utf-8";
+
+.i-amphtml-loader-background { position: absolute; inset: 0px; background-color: rgb(248, 248, 248); }
+
+.i-amphtml-new-loader { display: inline-block; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 0px; height: 0px; color: rgb(170, 170, 170); }
+
+.i-amphtml-new-loader-size-default, .i-amphtml-new-loader-size-small { width: 72px; height: 72px; }
+
+.i-amphtml-new-loader-logo { transform-origin: center center; opacity: 0; animation-duration: 0.8s; animation-timing-function: ease-in; animation-iteration-count: 1; animation-direction: normal; animation-fill-mode: forwards; animation-play-state: running; animation-name: i-amphtml-new-loader-scale-and-fade-in; animation-delay: calc(0.6s - var(--loader-delay-offset)); }
+
+.i-amphtml-new-loader-size-small .i-amphtml-new-loader-logo { display: none; }
+
+.i-amphtml-new-loader-logo-default { fill: currentcolor; animation-duration: 0.8s; animation-timing-function: ease-out; animation-iteration-count: 1; animation-direction: normal; animation-fill-mode: forwards; animation-play-state: running; animation-name: i-amphtml-new-loader-fade-out; animation-delay: calc(1.8s - var(--loader-delay-offset)); }
+
+.i-amphtml-new-loader-has-shim { color: rgb(255, 255, 255) !important; }
+
+.i-amphtml-new-loader-shim { width: 72px; height: 72px; border-radius: 50%; display: none; transform-origin: center center; opacity: 0; background-color: rgba(0, 0, 0, 0.6); animation-duration: 0.8s; animation-timing-function: ease-in; animation-iteration-count: 1; animation-direction: normal; animation-fill-mode: forwards; animation-play-state: running; animation-name: i-amphtml-new-loader-scale-and-fade-in; animation-delay: calc(0.6s - var(--loader-delay-offset)); }
+
+.i-amphtml-new-loader-size-small .i-amphtml-new-loader-shim { width: 48px; height: 48px; margin: 12px; }
+
+.i-amphtml-new-loader-has-shim .i-amphtml-new-loader-shim { display: initial; }
+
+.i-amphtml-new-loader-has-shim .i-amphtml-new-loader-logo-default { display: none; }
+
+.i-amphtml-new-loader-has-shim .i-amphtml-new-loader-transparent-on-shim { fill: transparent !important; }
+
+.i-amphtml-new-loader-logo, .i-amphtml-new-loader-shim, .i-amphtml-new-loader-spinner-wrapper { position: absolute; inset: 0px; }
+
+.i-amphtml-new-loader-spinner-wrapper { margin: 12px; }
+
+.i-amphtml-new-loader-spinner { stroke: currentcolor; stroke-width: 1.5px; opacity: 0; animation-duration: 0.8s; animation-timing-function: ease-in; animation-iteration-count: 1; animation-direction: normal; animation-fill-mode: forwards; animation-play-state: running; animation-name: i-amphtml-new-loader-fade-in; animation-delay: calc(1.8s - var(--loader-delay-offset)); }
+
+.i-amphtml-new-loader-spinner-path { animation-duration: 0.6s, 1.2s; animation-timing-function: steps(30), steps(59); animation-iteration-count: 1, infinite; animation-direction: normal, normal; animation-fill-mode: none, none; animation-play-state: running, running; animation-name: frame-position-first-spin, frame-position-infinite-spin; animation-delay: calc(2.8s - var(--loader-delay-offset)),calc(3.4s - var(--loader-delay-offset)); }
+
+.i-amphtml-new-loader-size-small .i-amphtml-new-loader-spinner { transform: scale(0.54545); stroke-width: 2.75px; }
+
+.i-amphtml-new-loader-size-small .i-amphtml-new-loader-spinner-path { animation-delay: calc(1.4s - var(--loader-delay-offset)),calc(2s - var(--loader-delay-offset)); }
+
+.i-amphtml-new-loader * { animation-play-state: paused; }
+
+.amp-active > .i-amphtml-new-loader * { animation-play-state: running; }
+
+.i-amphtml-new-loader-ad-logo { display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; }
+
+.i-amphtml-new-loader-ad-label { color: currentcolor !important; font-family: sans-serif !important; font-feature-settings: initial !important; font-kerning: initial !important; font-optical-sizing: initial !important; font-size: 11px !important; font-stretch: initial !important; font-style: initial !important; font-variant: initial !important; font-variation-settings: initial !important; font-weight: initial !important; forced-color-adjust: initial !important; text-orientation: initial !important; text-rendering: initial !important; -webkit-font-smoothing: initial !important; -webkit-locale: initial !important; -webkit-text-orientation: initial !important; -webkit-writing-mode: initial !important; writing-mode: initial !important; zoom: initial !important; accent-color: initial !important; place-content: initial !important; place-items: initial !important; place-self: initial !important; alignment-baseline: initial !important; animation: initial !important; appearance: initial !important; aspect-ratio: initial !important; backdrop-filter: initial !important; backface-visibility: initial !important; background: initial !important; background-blend-mode: initial !important; baseline-shift: initial !important; block-size: initial !important; border-block: initial !important; border: 1px solid !important; border-radius: 2px !important; border-collapse: initial !important; border-end-end-radius: initial !important; border-end-start-radius: initial !important; border-inline: initial !important; border-start-end-radius: initial !important; border-start-start-radius: initial !important; inset: initial !important; box-shadow: initial !important; box-sizing: initial !important; break-after: initial !important; break-before: initial !important; break-inside: initial !important; buffered-rendering: initial !important; caption-side: initial !important; caret-color: initial !important; clear: initial !important; clip: initial !important; clip-path: initial !important; clip-rule: initial !important; color-interpolation: initial !important; color-interpolation-filters: initial !important; color-rendering: initial !important; color-scheme: initial !important; columns: initial !important; column-fill: initial !important; gap: initial !important; column-rule: initial !important; column-span: initial !important; contain: initial !important; contain-intrinsic-size: initial !important; content: initial !important; content-visibility: initial !important; counter-increment: initial !important; counter-reset: initial !important; counter-set: initial !important; cursor: initial !important; cx: initial !important; cy: initial !important; d: initial !important; display: inline-block !important; dominant-baseline: initial !important; empty-cells: initial !important; fill: initial !important; fill-opacity: initial !important; fill-rule: initial !important; filter: initial !important; flex: initial !important; flex-flow: initial !important; float: initial !important; flood-color: initial !important; flood-opacity: initial !important; grid: initial !important; grid-area: initial !important; height: initial !important; hyphens: initial !important; image-orientation: initial !important; image-rendering: initial !important; inline-size: initial !important; inset-block: initial !important; inset-inline: initial !important; isolation: initial !important; letter-spacing: initial !important; lighting-color: initial !important; line-break: initial !important; line-height: 1.1 !important; list-style: initial !important; margin-block: initial !important; margin: initial !important; margin-inline: initial !important; marker: initial !important; mask: initial !important; mask-type: initial !important; max-block-size: initial !important; max-height: initial !important; max-inline-size: initial !important; max-width: initial !important; min-block-size: initial !important; min-height: initial !important; min-inline-size: initial !important; min-width: initial !important; mix-blend-mode: initial !important; object-fit: initial !important; object-position: initial !important; offset: initial !important; opacity: initial !important; order: initial !important; origin-trial-test-property: initial !important; orphans: initial !important; outline: initial !important; outline-offset: initial !important; overflow-anchor: initial !important; overflow-clip-margin: initial !important; overflow-wrap: initial !important; overflow: initial !important; overscroll-behavior-block: initial !important; overscroll-behavior-inline: initial !important; overscroll-behavior: initial !important; padding-block: initial !important; padding: 0px 0.4ch !important; padding-inline: initial !important; page: initial !important; page-orientation: initial !important; paint-order: initial !important; perspective: initial !important; perspective-origin: initial !important; pointer-events: initial !important; position: initial !important; quotes: initial !important; r: initial !important; resize: initial !important; ruby-position: initial !important; rx: initial !important; ry: initial !important; scroll-behavior: initial !important; scroll-margin-block: initial !important; scroll-margin: initial !important; scroll-margin-inline: initial !important; scroll-padding-block: initial !important; scroll-padding: initial !important; scroll-padding-inline: initial !important; scroll-snap-align: initial !important; scroll-snap-stop: initial !important; scroll-snap-type: initial !important; scrollbar-gutter: initial !important; shape-image-threshold: initial !important; shape-margin: initial !important; shape-outside: initial !important; shape-rendering: initial !important; size: initial !important; speak: initial !important; stop-color: initial !important; stop-opacity: initial !important; stroke: initial !important; stroke-dasharray: initial !important; stroke-dashoffset: initial !important; stroke-linecap: initial !important; stroke-linejoin: initial !important; stroke-miterlimit: initial !important; stroke-opacity: initial !important; stroke-width: initial !important; tab-size: initial !important; table-layout: initial !important; text-align: initial !important; text-align-last: initial !important; text-anchor: initial !important; text-combine-upright: initial !important; text-decoration: initial !important; text-decoration-skip-ink: initial !important; text-indent: initial !important; text-overflow: initial !important; text-shadow: initial !important; text-size-adjust: initial !important; text-transform: initial !important; text-underline-offset: initial !important; text-underline-position: initial !important; touch-action: initial !important; transform: initial !important; transform-box: initial !important; transform-origin: initial !important; transform-style: initial !important; transition: initial !important; user-select: initial !important; vector-effect: initial !important; vertical-align: initial !important; visibility: inherit !important; -webkit-app-region: initial !important; border-spacing: initial !important; -webkit-border-image: initial !important; -webkit-box-align: initial !important; -webkit-box-decoration-break: initial !important; -webkit-box-direction: initial !important; -webkit-box-flex: initial !important; -webkit-box-ordinal-group: initial !important; -webkit-box-orient: initial !important; -webkit-box-pack: initial !important; -webkit-box-reflect: initial !important; -webkit-highlight: initial !important; -webkit-hyphenate-character: initial !important; -webkit-line-break: initial !important; -webkit-line-clamp: initial !important; -webkit-mask-box-image: initial !important; -webkit-mask: initial !important; -webkit-mask-composite: initial !important; -webkit-perspective-origin-x: initial !important; -webkit-perspective-origin-y: initial !important; -webkit-print-color-adjust: initial !important; -webkit-rtl-ordering: initial !important; -webkit-ruby-position: initial !important; -webkit-tap-highlight-color: initial !important; -webkit-text-combine: initial !important; -webkit-text-decorations-in-effect: initial !important; -webkit-text-emphasis: initial !important; -webkit-text-emphasis-position: initial !important; -webkit-text-fill-color: initial !important; -webkit-text-security: initial !important; -webkit-text-stroke: initial !important; -webkit-transform-origin-x: initial !important; -webkit-transform-origin-y: initial !important; -webkit-transform-origin-z: initial !important; -webkit-user-drag: initial !important; -webkit-user-modify: initial !important; white-space: initial !important; widows: initial !important; width: initial !important; will-change: initial !important; word-break: initial !important; word-spacing: initial !important; x: initial !important; y: initial !important; z-index: initial !important; }
+
+@keyframes i-amphtml-new-loader-fade-in { 
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes i-amphtml-new-loader-fade-out { 
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+@keyframes i-amphtml-new-loader-scale-and-fade-in { 
+  0% { opacity: 0; transform: scale(0); }
+  50% { transform: scale(1); }
+  100% { opacity: 1; }
+}
+
+@keyframes frame-position-first-spin { 
+  0% { transform: translateX(0px); }
+  100% { transform: translateX(-1440px); }
+}
+
+@keyframes frame-position-infinite-spin { 
+  0% { transform: translateX(-1440px); }
+  100% { transform: translateX(-4272px); }
+}
+------MultipartBoundary--ZGAndevhDrmSssjuhz5WJuDbmLSgduCbEkS7GijD8w----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-fbd746d8-0f8b-4f54-aefc-272b12aa6323@mhtml.blink
+
+@charset "utf-8";
+
+html { font-family: sans-serif; text-size-adjust: 100%; }
+
+body { margin: 0px; }
+
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary { display: block; }
+
+audio, canvas, progress, video { display: inline-block; vertical-align: baseline; }
+
+audio:not([controls]) { display: none; height: 0px; }
+
+[hidden], template { display: none; }
+
+a { background-color: transparent; }
+
+a:active, a:hover { outline: 0px; }
+
+abbr[title] { border-bottom: 1px dotted; }
+
+b, strong { font-weight: bold; }
+
+dfn { font-style: italic; }
+
+h1 { margin: 0.67em 0px; font-size: 2em; }
+
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+
+small { font-size: 80%; }
+
+sub, sup { position: relative; vertical-align: baseline; font-size: 75%; line-height: 0; }
+
+sup { top: -0.5em; }
+
+sub { bottom: -0.25em; }
+
+img { border: 0px; }
+
+amp-img { border: 0px; }
+
+svg:not(:root) { overflow: hidden; }
+
+figure { margin: 1em 40px; }
+
+hr { box-sizing: content-box; height: 0px; }
+
+pre { overflow: auto; }
+
+code, kbd, pre, samp { font-family: monospace, monospace; font-size: 1em; }
+
+button, input, optgroup, select, textarea { margin: 0px; color: inherit; font: inherit; }
+
+button { overflow: visible; }
+
+button, select { text-transform: none; }
+
+button, html input[type="button"], input[type="reset"], input[type="submit"] { cursor: pointer; appearance: button; }
+
+button[disabled], html input[disabled] { cursor: default; }
+
+input { line-height: normal; }
+
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; padding: 0px; }
+
+input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button { height: auto; }
+
+input[type="search"] { appearance: textfield; }
+
+input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration { appearance: none; }
+
+fieldset { margin: 0px 2px; padding: 0.35em 0.625em 0.75em; border: 1px solid rgb(192, 192, 192); }
+
+legend { padding: 0px; border: 0px; }
+
+textarea { overflow: auto; }
+
+optgroup { font-weight: bold; }
+
+table { border-spacing: 0px; border-collapse: collapse; }
+
+td, th { padding: 0px; }
+
+html { max-height: 100%; height: 100%; font-size: 62.5%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+
+body { max-height: 100%; height: 100%; color: rgb(42, 42, 64); background: rgb(238, 238, 240); letter-spacing: 0.01rem; font-family: Lato, Lato-Fallback, serif; font-size: 1.8rem; line-height: 1.75em; text-rendering: geometricprecision; font-feature-settings: "kern"; }
+
+::selection { background: rgb(214, 237, 255); }
+
+h1, h2, h3, h4, h5, h6 { margin: 0px 0px 0.3em; color: rgb(10, 10, 35); font-family: Lato, Lato-Fallback, sans-serif; line-height: 1.15em; text-rendering: geometricprecision; font-feature-settings: "dlig", "liga", "lnum", "kern"; }
+
+h1 { text-indent: -2px; letter-spacing: -1px; font-size: 2.6rem; }
+
+h2 { letter-spacing: 0px; font-size: 2.4rem; }
+
+h3 { letter-spacing: -0.6px; font-size: 2.1rem; }
+
+h4 { font-size: 1.9rem; }
+
+h5 { font-size: 1.8rem; }
+
+h6 { font-size: 1.8rem; }
+
+a { color: rgb(0, 46, 173); }
+
+a:hover { color: rgb(17, 17, 17); }
+
+p, ul, ol, dl { margin: 0px 0px 2.5rem; text-rendering: geometricprecision; font-feature-settings: "liga", "onum", "kern"; }
+
+ol, ul { padding-left: 2em; }
+
+ol ol, ul ul, ul ol, ol ul { margin: 0px 0px 0.4em; padding-left: 2em; }
+
+dl dt { float: left; clear: left; overflow: hidden; margin-bottom: 1em; width: 180px; text-align: right; text-overflow: ellipsis; white-space: nowrap; font-weight: 700; }
+
+dl dd { margin-bottom: 1em; margin-left: 200px; }
+
+li { margin: 0.4em 0px; }
+
+li li { margin: 0px; }
+
+hr { display: block; margin: 1.75em 0px; padding: 0px; height: 1px; border-width: 1px 0px 0px; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image: initial; border-top-style: solid; border-top-color: rgb(239, 239, 239); }
+
+blockquote { box-sizing: border-box; margin: 1.75em 0px; padding: 0px 0px 0px 1.75em; border-left: 0.4em solid rgb(0, 46, 173); }
+
+blockquote p { margin: 0.8em 0px; font-style: italic; }
+
+blockquote small { display: inline-block; margin: 0.8em 0px 0.8em 1.5em; color: rgb(204, 204, 204); font-size: 0.9em; }
+
+blockquote small::before { content: "â€”Â "; }
+
+blockquote cite { font-weight: 700; }
+
+blockquote cite a { font-weight: normal; }
+
+mark { background-color: rgb(253, 255, 182); }
+
+code, tt { padding: 1px 3px; background: rgb(238, 238, 240); white-space: pre-wrap; font-family: Inconsolata, monospace, sans-serif; font-size: 0.85em; font-feature-settings: "liga" 0; }
+
+pre { overflow: auto; box-sizing: border-box; margin: 0px 0px 1.75em; padding: 10px; width: 100%; border: 1px solid rgb(238, 238, 240); background: rgb(238, 238, 240); white-space: pre; font-family: Inconsolata, monospace, sans-serif; font-size: 0.9em; }
+
+pre code, pre tt { padding: 0px; border: none; background: transparent; white-space: pre-wrap; font-size: inherit; }
+
+kbd { display: inline-block; margin-bottom: 0.4em; padding: 1px 8px; border: 1px solid rgb(204, 204, 204); background: rgb(244, 244, 244); box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 1px 0px 0px inset; color: rgb(102, 102, 102); text-shadow: rgb(255, 255, 255) 0px 1px 0px; font-size: 0.9em; font-weight: 700; }
+
+table { box-sizing: border-box; margin: 1.75em 0px; max-width: 100%; width: 100%; background-color: transparent; }
+
+table th, table td { padding: 8px; border-top: 1px solid rgb(239, 239, 239); vertical-align: top; text-align: left; line-height: 20px; }
+
+table th { color: rgb(0, 0, 0); }
+
+table caption + thead tr:first-child th, table caption + thead tr:first-child td, table colgroup + thead tr:first-child th, table colgroup + thead tr:first-child td, table thead:first-child tr:first-child th, table thead:first-child tr:first-child td { border-top: 0px; }
+
+table tbody + tbody { border-top: 2px solid rgb(239, 239, 239); }
+
+table table table { background-color: rgb(255, 255, 255); }
+
+table tbody > tr:nth-child(2n+1) > td, table tbody > tr:nth-child(2n+1) > th { background-color: rgb(246, 246, 246); }
+
+table.plain tbody > tr:nth-child(2n+1) > td, table.plain tbody > tr:nth-child(2n+1) > th { background: transparent; }
+
+iframe, amp-iframe, .fluid-width-video-wrapper { display: block; margin: 1.75em 0px; }
+
+.fluid-width-video-wrapper iframe, .fluid-width-video-wrapper amp-iframe { margin: 0px; }
+
+textarea, select, input { margin: 0px 0px 5px; padding: 6px 9px; width: 260px; outline: 0px; border: 1px solid rgb(231, 238, 242); background: rgb(255, 255, 255); box-shadow: none; font-family: Lato, Lato-Fallback, sans-serif; font-size: 1.6rem; line-height: 1.4em; font-weight: 100; appearance: none; }
+
+textarea { min-width: 250px; min-height: 80px; max-width: 340px; width: 100%; height: auto; }
+
+input[type="text"]:focus, input[type="email"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="url"]:focus, input[type="password"]:focus, input[type="number"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="time"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, textarea:focus { outline: none 0px; border: 1px solid rgb(187, 199, 204); background: rgb(255, 255, 255); }
+
+select { width: 270px; height: 30px; line-height: 30px; }
+
+.clearfix::before, .clearfix::after { content: " "; display: table; }
+
+.clearfix::after { clear: both; }
+
+.clearfix { zoom: 1; }
+
+.main-header { position: relative; display: table; overflow: hidden; width: 100%; background: center center / cover no-repeat rgb(10, 10, 35); text-align: left; box-sizing: border-box; height: 38px; }
+
+.content { background: rgb(255, 255, 255); padding-top: 15px; }
+
+.blog-title, .content { margin: auto; max-width: 600px; }
+
+.blog-title { height: 38px; }
+
+.blog-title amp-img { height: 24px; margin-top: 7px; margin-bottom: 7px; }
+
+.blog-title a { display: block; padding-right: 16px; padding-left: 16px; height: 50px; color: rgb(255, 255, 255); text-decoration: none; font-family: Lato, Lato-Fallback, sans-serif; font-size: 16px; line-height: 50px; font-weight: 600; }
+
+.post { position: relative; margin-top: 0px; margin-right: 16px; margin-left: 16px; padding-bottom: 0px; max-width: 100%; border-bottom: 1px solid rgb(235, 242, 246); overflow-wrap: break-word; font-size: 0.95em; line-height: 1.65em; }
+
+.post-header { margin-bottom: 1rem; }
+
+.post-title { margin-bottom: 0px; }
+
+.post-title a { text-decoration: none; }
+
+.post-meta { display: block; margin: 3px 0px 0px; color: rgb(10, 10, 35); font-family: Lato, Lato-Fallback, sans-serif; font-size: 1.3rem; line-height: 2.2rem; }
+
+.post-meta a { color: rgb(10, 10, 35); text-decoration: none; }
+
+.post-meta a:hover { text-decoration: underline; }
+
+.post-meta .author { margin: 0px; font-size: 1.3rem; line-height: 1.3em; }
+
+.post-date { display: inline-block; text-transform: uppercase; white-space: nowrap; }
+
+.post-image { margin: 0px; padding-top: 3rem; padding-bottom: 30px; border-top: 1px solid rgb(232, 232, 232); }
+
+.post-content amp-img, .post-content amp-anim { position: relative; left: 50%; display: block; padding: 0px; min-width: 0px; max-width: 112%; width: calc(100% + 32px); height: auto; transform: translateX(-50%); }
+
+.footnotes { font-size: 1.3rem; line-height: 1.6em; font-style: italic; }
+
+.footnotes li { margin: 0.6rem 0px; }
+
+.footnotes p { margin: 0px; }
+
+.footnotes p a:last-child { text-decoration: none; }
+
+.site-footer { position: relative; margin: 0px auto 20px; padding: 1rem 15px; max-width: 600px; color: rgba(0, 0, 0, 0.5); font-family: Lato, Lato-Fallback, sans-serif; font-size: 1.1rem; line-height: 1.75em; }
+
+.site-footer a { color: rgba(0, 0, 0, 0.5); text-decoration: none; font-weight: bold; }
+
+.site-footer a:hover { border-bottom: 1px solid rgb(187, 199, 204); }
+
+.poweredby { display: block; float: right; width: 45%; text-align: right; }
+
+.copyright { display: block; float: left; width: 45%; }
+
+.medium-migrated-article > p:first-child { text-align: center; }
+
+.medium-migrated-article > figure:first-of-type { display: none; }
+
+.medium-migrated-article > h1 { display: none; }
+
+.hidden { display: none; }
+
+.donation_btn { display: flex; flex-direction: row; place-content: center; border-radius: 5px; background-color: rgb(255, 195, 0); border-color: rgb(255, 195, 0); color: black; text-decoration: none; padding: 10px; font-size: 20px; font-weight: bold; }
+
+.donation_btn:hover { background-color: rgb(255, 191, 0); border-color: rgb(255, 191, 0); }
+------MultipartBoundary--ZGAndevhDrmSssjuhz5WJuDbmLSgduCbEkS7GijD8w----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css?family=Lato:300,300i,400,700,700i&display=swap&cls_fallback=false
+
+@charset "utf-8";
+
+@font-face { font-family: Lato; font-style: italic; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/lato/v20/S6u_w4BMUTPHjxsI9w2_FQftx9897sxZ.woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Lato; font-style: italic; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/lato/v20/S6u_w4BMUTPHjxsI9w2_Gwftx9897g.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Lato; font-style: italic; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/lato/v20/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Lato; font-style: italic; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/lato/v20/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/lato/v20/S6u9w4BMUTPHh7USSwaPGQ3q5d0N7w.woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 300; font-display: swap; src: url("https://fonts.gstatic.com/s/lato/v20/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/lato/v20/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/lato/v20/S6uyw4BMUTPHjx4wXiWtFCc.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/lato/v20/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2") format("woff2"); unicode-range: U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Lato; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/lato/v20/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+body { --google-font-exp:2; }
+------MultipartBoundary--ZGAndevhDrmSssjuhz5WJuDbmLSgduCbEkS7GijD8w----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://www-freecodecamp-org.cdn.ampproject.org/i/s/www.freecodecamp.org/news/content/images/2019/11/fcc_primary_large_24X210.svg
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 210 24" width="210" height="24"><defs><path d="M35.42 5.56L35.85 5.61L36.27 5.69L36.66 5.78L37.03 5.9L37.39 6.04L37.71 6.2L38.02 6.38L38.3 6.59L38.57 6.81L38.81 7.05L39.03 7.32L39.23 7.6L39.41 7.91L39.57 8.24L39.7 8.59L39.82 8.96L39.91 9.35L39.99 9.76L40.04 10.2L40.07 10.65L40.08 11.12L40.08 11.24L40.08 11.35L40.07 11.45L40.03 11.65L40.01 11.74L39.99 11.83L39.96 11.91L39.89 12.06L39.85 12.12L39.8 12.18L39.76 12.24L39.7 12.29L39.65 12.34L39.59 12.37L39.53 12.41L39.46 12.44L39.38 12.46L39.31 12.48L39.23 12.49L39.15 12.5L30.25 12.5L30.25 12.43L30.23 12.43L30.23 14.27L30.24 14.51L30.27 14.75L30.3 14.98L30.36 15.2L30.43 15.4L30.52 15.6L30.62 15.77L30.74 15.95L30.87 16.1L31.02 16.26L31.19 16.39L31.37 16.52L31.57 16.63L31.78 16.74L32.01 16.83L32.25 16.92L32.52 16.98L32.79 17.05L33.09 17.1L33.4 17.13L33.72 17.16L34.06 17.18L34.42 17.19L34.55 17.19L34.68 17.18L34.81 17.18L34.93 17.17L35.06 17.17L35.18 17.16L35.3 17.15L35.53 17.13L35.64 17.12L35.75 17.1L35.96 17.07L36.06 17.06L36.16 17.04L36.45 16.98L36.54 16.95L36.63 16.93L36.71 16.9L36.8 16.87L36.88 16.84L36.93 16.83L36.98 16.81L37.03 16.79L37.08 16.77L37.14 16.74L37.2 16.72L37.26 16.69L37.32 16.66L37.53 16.55L37.61 16.51L37.68 16.46L37.85 16.37L37.93 16.32L38.02 16.27L38.11 16.21L38.3 16.08L38.4 16.02L38.5 15.95L38.61 15.88L38.73 15.76L38.86 15.66L38.92 15.61L38.97 15.57L39.03 15.53L39.08 15.48L39.17 15.41L39.27 15.35L39.31 15.32L39.35 15.3L39.39 15.27L39.46 15.24L39.49 15.23L39.53 15.22L39.55 15.21L39.6 15.2L39.69 15.2L39.79 15.21L39.84 15.22L39.89 15.23L39.94 15.24L39.98 15.26L40.05 15.3L40.09 15.33L40.15 15.39L40.18 15.42L40.21 15.46L40.25 15.54L40.26 15.59L40.28 15.64L40.29 15.7L40.3 15.75L40.31 15.8L40.31 15.87L40.31 15.94L40.31 16L40.3 16.07L40.29 16.13L40.28 16.2L40.22 16.4L40.19 16.46L40.15 16.53L40.12 16.6L40.08 16.67L40.03 16.74L39.98 16.8L39.88 16.94L39.75 17.07L39.62 17.21L39.46 17.35L39.37 17.41L39.29 17.49L39.14 17.59L38.99 17.7L38.83 17.8L38.67 17.9L38.5 17.99L38.32 18.08L38.14 18.16L37.95 18.23L37.76 18.31L37.55 18.38L37.34 18.44L37.13 18.5L36.91 18.55L36.68 18.6L36.21 18.69L35.96 18.72L35.71 18.75L35.45 18.77L35.19 18.79L34.92 18.8L34.64 18.81L34.36 18.81L33.88 18.81L33.41 18.78L32.96 18.74L32.54 18.67L32.13 18.6L31.75 18.51L31.39 18.4L31.05 18.27L30.74 18.12L30.44 17.96L30.17 17.78L29.91 17.58L29.69 17.37L29.48 17.14L29.29 16.89L29.13 16.63L28.99 16.34L28.86 16.05L28.76 15.73L28.69 15.39L28.63 15.04L28.6 14.67L28.59 14.28L28.59 9.57L28.6 9.43L28.61 9.31L28.62 9.18L28.64 9.05L28.66 8.92L28.7 8.79L28.73 8.67L28.77 8.55L28.81 8.43L28.86 8.31L28.91 8.19L29.03 7.96L29.09 7.85L29.16 7.73L29.24 7.63L29.32 7.52L29.4 7.42L29.49 7.31L29.68 7.11L29.78 7.01L29.91 6.88L30.21 6.64L30.36 6.53L30.53 6.42L30.7 6.32L30.87 6.23L31.05 6.14L31.24 6.06L31.43 5.98L31.63 5.91L31.84 5.85L32.05 5.79L32.27 5.74L32.5 5.69L32.72 5.65L32.96 5.62L33.2 5.58L33.44 5.56L33.69 5.54L33.95 5.53L34.21 5.52L34.48 5.52L34.95 5.53L35.42 5.56ZM33.38 7.16L32.97 7.23L32.58 7.33L32.2 7.46L31.83 7.61L31.48 7.79L31.16 8.04L30.89 8.3L30.66 8.58L30.47 8.88L30.34 9.19L30.26 9.51L30.23 9.86L30.23 10.82L38.42 10.82L38.33 9.84L38.08 9.01L37.65 8.32L37.05 7.79L36.29 7.41L35.34 7.18L34.23 7.11L33.8 7.12L33.38 7.16Z" id="bhBdYFqzf"></path><path d="M107.21 5.56L107.64 5.61L108.06 5.69L108.45 5.78L108.82 5.9L109.17 6.04L109.5 6.2L109.81 6.38L110.1 6.59L110.36 6.81L110.6 7.05L110.82 7.32L111.03 7.6L111.2 7.91L111.36 8.24L111.5 8.59L111.61 8.96L111.71 9.35L111.78 9.76L111.83 10.2L111.86 10.65L111.87 11.12L111.87 11.24L111.86 11.35L111.85 11.45L111.84 11.55L111.82 11.65L111.8 11.74L111.77 11.83L111.75 11.91L111.72 11.98L111.68 12.06L111.64 12.12L111.59 12.18L111.54 12.24L111.44 12.34L111.31 12.41L111.18 12.46L111.1 12.48L111.02 12.49L110.94 12.5L102.02 12.51L102.02 14.27L102.03 14.51L102.05 14.75L102.09 14.98L102.15 15.2L102.22 15.4L102.3 15.6L102.41 15.77L102.52 15.95L102.66 16.1L102.81 16.26L102.98 16.39L103.16 16.52L103.35 16.63L103.57 16.74L103.8 16.83L104.04 16.92L104.3 16.98L104.58 17.05L104.88 17.1L105.19 17.13L105.51 17.16L105.85 17.18L106.21 17.19L106.34 17.19L106.47 17.18L106.6 17.18L106.85 17.17L106.97 17.16L107.09 17.15L107.31 17.13L107.43 17.12L107.54 17.1L107.85 17.06L108.05 17.02L108.24 16.98L108.33 16.95L108.42 16.93L108.51 16.9L108.59 16.87L108.72 16.83L108.76 16.81L108.82 16.79L108.87 16.77L108.93 16.74L108.98 16.72L109.05 16.69L109.11 16.66L109.25 16.59L109.32 16.55L109.39 16.51L109.47 16.46L109.55 16.42L109.63 16.37L109.72 16.32L109.81 16.27L109.9 16.21L109.99 16.15L110.19 16.02L110.29 15.95L110.4 15.88L110.46 15.82L110.53 15.76L110.58 15.71L110.65 15.66L110.7 15.61L110.76 15.57L110.87 15.48L110.92 15.45L110.97 15.41L111.01 15.38L111.06 15.35L111.1 15.32L111.14 15.3L111.18 15.27L111.25 15.24L111.28 15.23L111.34 15.21L111.37 15.2L111.39 15.2L111.48 15.2L111.53 15.2L111.59 15.21L111.68 15.23L111.73 15.24L111.77 15.26L111.81 15.28L111.85 15.3L111.88 15.33L111.94 15.39L111.97 15.42L112 15.46L112.04 15.54L112.05 15.59L112.07 15.64L112.09 15.75L112.1 15.8L112.1 15.87L112.1 16L112.09 16.07L112.08 16.13L112.07 16.2L112.05 16.27L112.03 16.34L112.01 16.4L111.98 16.46L111.94 16.53L111.91 16.6L111.82 16.74L111.77 16.8L111.72 16.87L111.61 17.01L111.4 17.21L111.17 17.41L111.08 17.49L110.78 17.7L110.63 17.8L110.46 17.9L110.29 17.99L110.11 18.08L109.93 18.16L109.74 18.23L109.54 18.31L109.34 18.38L109.13 18.44L108.92 18.5L108.7 18.55L108.47 18.6L108.24 18.64L108 18.69L107.75 18.72L107.5 18.75L107.24 18.77L106.98 18.79L106.43 18.81L106.15 18.81L105.66 18.81L105.2 18.78L104.75 18.74L104.32 18.67L103.93 18.6L103.54 18.51L103.18 18.4L102.85 18.27L102.52 18.12L102.23 17.96L101.96 17.78L101.71 17.58L101.48 17.37L101.26 17.14L101.08 16.89L100.91 16.63L100.77 16.34L100.65 16.05L100.55 15.73L100.47 15.39L100.42 15.04L100.38 14.67L100.37 14.28L100.37 9.7L100.38 9.57L100.38 9.43L100.4 9.31L100.41 9.18L100.43 9.05L100.48 8.79L100.52 8.67L100.56 8.55L100.6 8.43L100.65 8.31L100.7 8.19L100.81 7.96L100.88 7.85L100.95 7.73L101.02 7.63L101.11 7.52L101.19 7.42L101.28 7.31L101.47 7.11L101.57 7.01L101.71 6.88L101.85 6.76L102 6.64L102.15 6.53L102.32 6.42L102.49 6.32L102.66 6.23L102.85 6.14L103.03 6.06L103.22 5.98L103.42 5.91L103.84 5.79L104.06 5.74L104.28 5.69L104.51 5.65L104.74 5.62L104.99 5.58L105.23 5.56L105.48 5.54L105.74 5.53L106 5.52L106.27 5.52L106.75 5.53L107.21 5.56ZM105.17 7.16L104.76 7.23L104.37 7.33L103.99 7.46L103.62 7.61L103.28 7.79L102.94 8.04L102.65 8.3L102.42 8.58L102.25 8.88L102.12 9.19L102.05 9.51L102.02 9.86L102.02 10.82L110.21 10.82L110.12 9.84L109.87 9.01L109.44 8.32L108.84 7.79L108.08 7.41L107.13 7.18L106.02 7.11L105.59 7.12L105.17 7.16Z" id="bvatw1rZG"></path><path d="M203.57 0.17C203.45 0.29 203.33 0.46 203.33 0.62C203.33 0.91 203.67 1.31 204.3 1.95C206.93 4.48 208.25 7.57 208.24 11.3C208.23 15.43 206.84 18.75 204.14 21.31C203.57 21.82 203.34 22.22 203.34 22.56C203.34 22.73 203.46 22.9 203.57 23.07C203.68 23.19 203.91 23.3 204.08 23.3C204.7 23.3 205.58 22.57 206.72 21.13C208.94 18.41 209.94 15.4 210 11.31C210.05 7.21 208.77 4.43 206.25 1.56C205.35 0.53 204.59 0 204.08 0C203.91 0 203.73 0.06 203.57 0.17Z" id="kheioiymm"></path><path d="M124.75 1.76C125.89 2.62 126.48 3.83 126.48 5.31C126.48 5.99 126.19 6.33 125.62 6.33C125.23 6.33 124.94 5.99 124.77 5.31C124.66 4.74 124.43 4.23 124.15 3.69C123.63 2.79 122.54 2.37 120.83 2.37C119.34 2.37 118.31 2.71 117.69 3.45C117.12 4.13 116.78 5.17 116.78 6.71C116.78 7.3 116.78 12.06 116.78 12.66C116.78 14.21 117.12 15.29 117.75 15.97C118.43 16.71 119.47 17.1 120.95 17.1C123.18 17.1 124.49 16.31 124.77 14.76C124.89 14.19 124.94 13.9 124.94 13.85C125.06 13.51 125.29 13.34 125.62 13.34C126.19 13.34 126.48 13.68 126.48 14.36C126.48 15.8 125.91 16.88 124.7 17.74C123.73 18.36 122.52 18.7 120.93 18.7C119.09 18.7 117.67 18.3 116.63 17.45C115.47 16.65 114.9 15.29 114.9 13.51C114.9 13.51 114.9 13.51 114.9 13.51C114.9 13.51 114.9 13.51 114.9 13.51C114.9 9.22 114.9 6.83 114.9 6.35C114.9 2.58 116.85 0.74 120.85 0.74C122.46 0.74 123.71 1.08 124.75 1.76Z" id="ay2lFwqBt"></path><path d="M14.21 6.57C14.21 6.01 14.55 5.78 15.23 5.78C15.56 5.78 18.21 5.78 18.55 5.78C19.12 5.78 19.4 6.29 19.4 7.22C20.42 6.14 21.52 5.49 22.66 5.49C23.62 5.49 24.38 5.78 24.89 6.35C25.46 6.92 25.69 7.73 25.69 8.64C25.69 9.27 25.4 9.61 24.89 9.61C24.55 9.61 24.32 9.38 24.21 8.98C23.98 8.18 23.87 7.79 23.81 7.73C23.59 7.34 23.13 7.11 22.56 7.11C21.94 7.11 21.31 7.34 20.78 7.79C20.44 8.02 19.98 8.53 19.4 9.28C19.4 9.8 19.4 12.35 19.4 16.95C21.25 16.95 22.28 16.95 22.48 16.95C23.16 16.95 23.51 17.24 23.51 17.75C23.51 18.32 23.16 18.61 22.48 18.61C21.75 18.61 15.89 18.61 15.15 18.61C14.47 18.61 14.13 18.32 14.13 17.81C14.13 17.24 14.47 17.01 15.15 17.01C15.32 17.01 16.16 17.01 17.67 17.01C17.67 17.01 17.67 16.98 17.67 16.94C17.67 16.94 17.68 16.94 17.69 16.94C17.69 11.2 17.69 8.01 17.69 7.37C16.16 7.37 15.34 7.37 15.23 7.37C14.55 7.37 14.21 7.09 14.21 6.57Z" id="b29c6lMP53"></path><path d="M96.68 0.04L96.74 0.06L96.8 0.09L96.85 0.12L96.91 0.16L96.95 0.2L97.04 0.29L97.07 0.35L97.11 0.41L97.14 0.48L97.16 0.55L97.2 0.71L97.24 0.89L97.25 1.09L97.25 1.19L97.25 18.03L97.25 18.11L97.24 18.18L97.24 18.25L97.2 18.38L97.19 18.43L97.16 18.49L97.14 18.54L97.08 18.63L97.01 18.71L96.96 18.74L96.92 18.77L96.87 18.8L96.82 18.82L96.77 18.84L96.71 18.86L96.59 18.88L96.52 18.89L96.41 18.89L96.28 18.87L96.24 18.86L96.2 18.84L96.16 18.83L96.13 18.81L96.1 18.8L96.07 18.77L96.04 18.75L95.98 18.7L95.96 18.67L95.89 18.55L95.88 18.51L95.86 18.46L95.85 18.42L95.83 18.37L95.83 18.32L95.83 18.24L95.83 18.2L95.83 18.16L95.82 18.12L95.82 18.08L95.81 18.04L95.81 18L95.81 17.96L95.8 17.91L95.8 17.87L95.8 17.82L95.79 17.73L95.79 17.67L95.78 17.63L95.78 17.57L95.78 17.46L95.77 17.4L95.77 17.27L95.64 17.36L95.51 17.44L95.38 17.53L95.14 17.67L95.03 17.75L94.91 17.82L94.7 17.94L94.6 18L94.51 18.06L94.41 18.11L94.16 18.25L94.09 18.29L94.02 18.33L93.88 18.39L93.76 18.44L93.71 18.46L93.62 18.5L93.53 18.53L93.44 18.55L93.25 18.61L92.95 18.67L92.85 18.69L92.64 18.72L92.42 18.75L92.31 18.77L92.08 18.79L91.96 18.79L91.84 18.8L91.73 18.8L91.61 18.81L91.15 18.81L90.94 18.8L90.74 18.79L90.54 18.77L90.35 18.76L90.15 18.73L89.97 18.71L89.6 18.64L89.26 18.56L89.08 18.51L88.92 18.46L88.76 18.41L88.44 18.29L88.29 18.22L88.14 18.16L88 18.08L87.86 18L87.72 17.92L87.59 17.84L87.45 17.74L87.17 17.52L87.05 17.41L86.93 17.28L86.82 17.16L86.71 17.03L86.61 16.89L86.52 16.75L86.35 16.46L86.28 16.31L86.21 16.15L86.15 15.99L86.1 15.83L86.05 15.65L86.01 15.47L85.98 15.3L85.96 15.11L85.93 14.92L85.92 14.73L85.92 9.52L85.93 9.33L85.96 9.15L85.98 8.97L86.01 8.79L86.05 8.62L86.09 8.45L86.14 8.29L86.2 8.13L86.26 7.98L86.34 7.83L86.41 7.68L86.5 7.54L86.59 7.4L86.69 7.27L86.79 7.14L86.89 7.02L87.01 6.9L87.13 6.78L87.39 6.56L87.53 6.46L87.66 6.38L87.79 6.3L87.92 6.22L88.07 6.15L88.21 6.08L88.35 6.01L88.66 5.89L88.81 5.84L89.14 5.74L89.47 5.66L89.65 5.63L89.83 5.6L90.01 5.57L90.19 5.54L90.56 5.51L90.75 5.5L90.94 5.49L91.39 5.49L91.64 5.51L91.76 5.51L91.89 5.51L92.01 5.53L92.13 5.54L92.24 5.55L92.35 5.56L92.57 5.6L92.68 5.61L92.89 5.65L92.99 5.67L93.08 5.69L93.36 5.77L93.45 5.8L93.54 5.84L93.62 5.87L93.71 5.9L93.79 5.94L93.88 5.97L93.97 6.01L94.07 6.06L94.24 6.15L94.53 6.31L94.62 6.36L94.91 6.55L95.11 6.69L95.2 6.76L95.3 6.84L95.4 6.92L95.6 7.08L95.6 1.19L95.61 1.09L95.61 0.89L95.65 0.71L95.66 0.63L95.69 0.55L95.71 0.48L95.74 0.41L95.77 0.35L95.81 0.29L95.85 0.25L95.89 0.2L95.93 0.16L95.98 0.12L96.03 0.09L96.08 0.06L96.14 0.04L96.27 0.01L96.33 0L96.47 0L96.54 0.01L96.68 0.04ZM90.98 7.23L90.72 7.26L90.46 7.28L90.21 7.33L89.97 7.38L89.74 7.43L89.53 7.51L89.32 7.59L89.13 7.68L88.95 7.78L88.75 7.93L88.55 8.09L88.38 8.26L88.23 8.43L88.09 8.62L87.98 8.82L87.88 9.02L87.8 9.25L87.75 9.48L87.71 9.71L87.7 9.97L87.7 14.49L87.71 14.75L87.74 15L87.79 15.23L87.86 15.46L87.95 15.67L88.07 15.87L88.2 16.06L88.36 16.23L88.53 16.39L88.73 16.53L88.95 16.67L89.14 16.76L89.35 16.84L89.56 16.92L89.78 16.99L90 17.05L90.24 17.11L90.49 17.15L90.75 17.19L91.02 17.22L91.3 17.23L91.58 17.24L92.05 17.23L92.27 17.21L92.49 17.19L92.92 17.13L93.13 17.09L93.33 17.03L93.52 16.97L93.71 16.91L93.88 16.84L94.02 16.74L94.18 16.63L94.33 16.52L94.49 16.4L94.66 16.28L94.82 16.15L95 16.02L95.17 15.87L95.35 15.72L95.53 15.56L95.71 15.4L95.71 8.81L95.5 8.65L95.29 8.51L95.09 8.37L94.89 8.24L94.7 8.12L94.52 8.01L94.35 7.9L94.19 7.81L94.04 7.74L93.89 7.67L93.76 7.61L93.57 7.54L93.38 7.48L93.19 7.42L92.99 7.37L92.79 7.33L92.59 7.29L92.38 7.26L92.17 7.24L91.96 7.23L91.53 7.22L91.25 7.22L90.98 7.23Z" id="h1K5OvIsAQ"></path><path d="M195.66 12.04C194.67 11.79 198.72 7.01 191.53 1.29C191.53 1.29 192.47 4.29 187.72 10.98C182.96 17.66 189.83 21.64 189.83 21.64C189.83 21.64 186.61 19.92 190.36 13.8C191.03 12.69 191.91 11.69 193 9.42C193 9.42 193.96 10.79 193.46 13.74C192.71 18.21 196.73 16.93 196.79 16.99C198.2 18.64 195.63 21.55 195.47 21.64C195.31 21.73 202.81 17.14 197.48 10.22C197.12 10.58 196.65 12.3 195.66 12.04Z" id="dda7d5c9Y"></path><path d="M135.26 5.37L135.45 5.38L135.63 5.4L135.81 5.41L135.99 5.43L136.16 5.45L136.33 5.47L136.49 5.49L136.65 5.53L136.8 5.55L136.94 5.59L137.09 5.62L137.23 5.66L137.37 5.7L137.5 5.74L137.63 5.78L137.75 5.83L137.87 5.88L137.99 5.93L138.11 5.99L138.22 6.04L138.32 6.1L138.43 6.16L138.55 6.24L138.65 6.33L138.76 6.42L138.86 6.52L138.96 6.62L139.05 6.73L139.14 6.84L139.22 6.96L139.3 7.08L139.37 7.2L139.44 7.33L139.51 7.46L139.63 7.75L139.68 7.89L139.72 8.04L139.77 8.2L139.81 8.35L139.84 8.52L139.86 8.68L139.88 8.86L139.9 9.04L139.91 9.22L139.93 9.4L139.93 15.5L139.93 15.58L139.93 15.66L139.94 15.8L139.95 15.94L139.96 16.01L139.97 16.07L139.98 16.13L140 16.19L140.01 16.25L140.04 16.36L140.06 16.41L140.12 16.55L140.15 16.59L140.17 16.63L140.2 16.67L140.26 16.74L140.33 16.81L140.34 16.82L140.36 16.83L140.36 16.84L140.39 16.84L140.4 16.86L140.45 16.88L140.47 16.89L140.52 16.91L140.55 16.93L140.59 16.94L140.7 16.98L140.82 17.03L140.87 17.05L140.92 17.07L140.96 17.08L141.01 17.1L141.06 17.13L141.12 17.15L141.15 17.16L141.22 17.19L141.24 17.21L141.27 17.23L141.32 17.27L141.34 17.29L141.36 17.32L141.38 17.34L141.4 17.37L141.42 17.4L141.45 17.46L141.46 17.5L141.47 17.53L141.48 17.57L141.49 17.61L141.49 17.65L141.5 17.69L141.51 17.74L141.51 17.79L141.52 17.84L141.52 18.05L141.5 18.1L141.5 18.14L141.49 18.19L141.48 18.23L141.46 18.27L141.45 18.31L141.43 18.34L141.4 18.38L141.35 18.44L141.33 18.47L141.29 18.49L141.18 18.55L141.1 18.59L141.05 18.6L141 18.61L140.9 18.62L140.84 18.62L140.73 18.62L140.71 18.62L140.7 18.62L140.67 18.61L140.65 18.61L140.63 18.61L140.53 18.59L140.5 18.57L140.47 18.57L140.44 18.56L140.41 18.55L140.3 18.52L140.26 18.51L140.22 18.5L140.18 18.49L140.13 18.48L140.09 18.47L140.04 18.45L139.89 18.4L139.83 18.38L139.76 18.36L139.69 18.33L139.57 18.29L139.51 18.27L139.45 18.25L139.4 18.23L139.35 18.21L139.3 18.2L139.26 18.18L139.21 18.17L139.17 18.16L139.13 18.14L139.1 18.13L139.03 18.11L138.96 18.08L138.93 18.07L138.92 18.06L138.9 18.05L138.87 18.05L138.83 18.05L138.8 18.03L138.77 18.02L138.73 18.01L138.71 17.99L138.68 17.97L138.65 17.95L138.62 17.92L138.6 17.89L138.57 17.86L138.55 17.83L138.53 17.79L138.5 17.75L138.48 17.71L138.47 17.67L138.44 17.63L138.42 17.58L138.39 17.49L138.33 17.28L138.31 17.22L138.08 17.38L137.86 17.53L137.76 17.6L137.56 17.72L137.46 17.79L137.29 17.9L137.12 18.01L137.04 18.05L136.97 18.1L136.83 18.18L136.76 18.22L136.7 18.26L136.54 18.34L136.49 18.36L136.4 18.4L136.36 18.41L136.3 18.45L136.23 18.47L136.08 18.52L135.84 18.58L135.76 18.6L135.68 18.62L135.6 18.63L135.42 18.66L135.33 18.67L135.24 18.69L134.96 18.72L134.86 18.73L134.76 18.74L134.66 18.74L134.55 18.75L134.45 18.75L133.96 18.75L133.8 18.75L133.64 18.74L133.33 18.72L133.03 18.69L132.88 18.67L132.73 18.64L132.45 18.59L132.18 18.53L132.04 18.49L131.91 18.45L131.79 18.41L131.66 18.36L131.42 18.27L131.3 18.21L131.19 18.16L131.08 18.1L130.97 18.03L130.86 17.97L130.76 17.9L130.64 17.82L130.52 17.74L130.3 17.55L130.2 17.45L130.11 17.35L130.01 17.25L129.93 17.14L129.85 17.03L129.77 16.92L129.7 16.8L129.63 16.68L129.57 16.56L129.51 16.43L129.46 16.31L129.41 16.18L129.33 15.91L129.3 15.77L129.27 15.63L129.23 15.33L129.21 15.03L129.21 14.71L129.22 14.56L129.23 14.4L129.25 14.26L129.3 13.96L129.37 13.68L129.42 13.54L129.53 13.28L129.59 13.15L129.65 13.02L129.8 12.78L129.88 12.67L129.96 12.56L130.05 12.45L130.15 12.34L130.25 12.24L130.35 12.14L130.46 12.05L130.69 11.87L130.82 11.79L131.04 11.63L131.15 11.55L131.39 11.42L131.65 11.29L131.78 11.24L132.04 11.13L132.18 11.08L132.46 11L132.6 10.96L132.75 10.93L132.89 10.89L133.04 10.87L133.19 10.84L133.35 10.82L133.5 10.81L133.66 10.79L133.82 10.78L133.98 10.77L134.14 10.76L134.44 10.76L134.57 10.77L134.71 10.77L135 10.79L135.14 10.81L135.29 10.83L135.43 10.85L135.59 10.87L135.73 10.89L135.88 10.93L136.04 10.95L136.19 10.98L136.51 11.06L137 11.18L137.16 11.23L137.33 11.28L137.5 11.33L137.67 11.38L137.85 11.44L138.03 11.5L138.2 11.56L138.2 9.55L138.2 9.43L138.19 9.32L138.18 9.22L138.17 9.1L138.15 9.01L138.13 8.9L138.09 8.8L138.06 8.7L138.03 8.61L137.98 8.52L137.94 8.43L137.83 8.27L137.77 8.18L137.71 8.11L137.64 8.03L137.49 7.89L137.41 7.82L137.23 7.7L137.13 7.64L137.03 7.59L136.93 7.54L136.82 7.48L136.75 7.45L136.59 7.39L136.25 7.28L135.99 7.22L135.89 7.2L135.8 7.19L135.7 7.17L135.61 7.16L135.51 7.15L135.31 7.13L135.21 7.11L135.11 7.11L135 7.1L134.9 7.09L134.79 7.09L134.69 7.09L134.22 7.09L133.97 7.1L133.73 7.11L133.5 7.13L133.29 7.16L133.08 7.19L132.88 7.22L132.69 7.26L132.52 7.31L132.35 7.37L132.19 7.42L132.04 7.49L131.9 7.56L131.77 7.63L131.65 7.72L131.53 7.8L131.43 7.9L131.34 8L131.25 8.11L131.17 8.22L131.11 8.33L131.05 8.46L131 8.59L130.96 8.73L130.93 8.87L130.92 8.94L130.9 9L130.88 9.11L130.86 9.22L130.84 9.31L130.83 9.36L130.82 9.4L130.81 9.43L130.81 9.47L130.8 9.5L130.79 9.53L130.78 9.59L130.77 9.63L130.77 9.65L130.76 9.67L130.76 9.68L130.76 9.69L130.76 9.72L130.74 9.75L130.71 9.82L130.7 9.84L130.65 9.9L130.64 9.92L130.61 9.94L130.59 9.96L130.56 9.99L130.54 10L130.52 10.02L130.49 10.03L130.46 10.05L130.43 10.06L130.4 10.07L130.37 10.08L130.33 10.09L130.3 10.1L130.27 10.11L130.23 10.11L130.19 10.11L130.16 10.12L130.01 10.12L129.95 10.11L129.82 10.09L129.76 10.08L129.61 10.02L129.56 9.99L129.51 9.96L129.47 9.92L129.43 9.89L129.35 9.81L129.32 9.76L129.27 9.67L129.24 9.61L129.23 9.55L129.21 9.49L129.19 9.43L129.18 9.37L129.18 9.3L129.17 9.22L129.17 9.05L129.18 8.95L129.18 8.85L129.2 8.75L129.21 8.65L129.25 8.45L129.3 8.25L129.33 8.15L129.36 8.06L129.4 7.96L129.44 7.86L129.49 7.76L129.58 7.57L129.76 7.29L129.82 7.2L129.89 7.11L130.11 6.84L130.19 6.75L130.29 6.64L130.51 6.44L130.63 6.35L130.89 6.17L131.03 6.09L131.18 6.01L131.34 5.93L131.49 5.87L131.66 5.8L131.84 5.74L132.02 5.69L132.21 5.64L132.4 5.59L132.6 5.55L132.81 5.51L133.02 5.47L133.46 5.42L133.69 5.4L133.92 5.38L134.16 5.37L134.41 5.37L134.66 5.36L134.86 5.36L135.06 5.37L135.26 5.37ZM132.85 12.68L132.17 12.92L131.63 13.27L131.25 13.71L131.02 14.25L130.95 14.89L130.97 15.23L131.03 15.54L131.14 15.84L131.29 16.11L131.49 16.36L131.74 16.56L132.03 16.73L132.28 16.86L132.56 16.98L132.86 17.07L133.18 17.15L133.52 17.2L133.88 17.23L134.26 17.24L134.6 17.23L134.92 17.21L135.24 17.17L135.55 17.1L135.85 17.03L136.15 16.92L136.44 16.79L136.64 16.67L136.86 16.52L137.11 16.36L137.37 16.18L137.65 15.97L137.95 15.75L138.26 15.52L138.26 13.11L137.72 12.95L137.19 12.81L136.66 12.7L136.14 12.61L135.63 12.54L135.14 12.5L134.66 12.49L133.68 12.54L132.85 12.68Z" id="b1qEueV7Mq"></path><path d="M0.97 5.8C1.09 5.8 1.7 5.8 2.81 5.8C2.81 4.83 2.81 4.3 2.81 4.19C2.81 1.39 4.25 0 7.05 0C8.19 0 9.17 0.23 9.91 0.63C10.87 1.2 11.41 2.13 11.41 3.21C11.41 3.94 11.12 4.23 10.61 4.23C10.27 4.23 9.93 4 9.75 3.6C9.53 2.87 9.3 2.47 9.19 2.28C8.85 1.88 8.16 1.65 7.18 1.65C5.46 1.65 4.61 2.5 4.61 4.23C4.61 4.33 4.61 4.85 4.61 5.78C6.6 5.78 7.7 5.78 7.92 5.78C8.66 5.78 9 6.07 9 6.57C9 7.14 8.66 7.37 7.92 7.37C7.7 7.37 6.6 7.37 4.61 7.37C4.61 13.66 4.61 17.15 4.61 17.85C4.61 18.47 4.32 18.81 3.81 18.81C3.24 18.81 3.01 18.47 3.01 17.85C3.01 17.15 3.01 13.68 3.01 7.39C3.01 7.39 1.07 7.39 0.97 7.39C0.34 7.39 0 7.11 0 6.6C0 6.02 0.34 5.8 0.97 5.8Z" id="m4GdFVRLeZ"></path><path d="M78.8 5.55L79.41 5.63L79.97 5.75L80.49 5.9L80.97 6.08L81.4 6.3L81.78 6.55L82.12 6.84L82.41 7.16L82.66 7.51L82.87 7.9L83.03 8.32L83.14 8.77L83.21 9.26L83.23 9.77L83.23 14.48L83.21 15L83.14 15.48L83.03 15.94L82.88 16.36L82.68 16.74L82.44 17.09L82.15 17.41L81.82 17.7L81.44 17.95L81.02 18.17L80.55 18.36L80.04 18.51L79.49 18.62L78.89 18.71L78.25 18.76L77.57 18.78L76.85 18.77L76.17 18.73L75.54 18.65L74.96 18.54L74.43 18.39L73.95 18.21L73.52 17.99L73.13 17.74L72.79 17.45L72.49 17.13L72.24 16.77L72.03 16.39L71.88 15.96L71.77 15.5L71.7 15.01L71.68 14.48L71.68 9.77L71.7 9.26L71.77 8.77L71.88 8.32L72.04 7.9L72.24 7.51L72.5 7.16L72.79 6.84L73.13 6.55L73.52 6.3L73.95 6.08L74.42 5.9L74.94 5.75L75.5 5.63L76.11 5.55L76.76 5.49L77.46 5.48L78.15 5.49L78.8 5.55ZM76.13 7.16L75.6 7.26L75.13 7.39L74.71 7.56L74.34 7.77L74.03 8.01L73.78 8.29L73.58 8.61L73.44 8.96L73.35 9.35L73.33 9.77L73.33 14.48L73.35 14.9L73.44 15.29L73.58 15.65L73.79 15.96L74.05 16.24L74.36 16.48L74.73 16.68L75.16 16.85L75.65 16.97L76.2 17.06L76.8 17.1L77.46 17.1L78.1 17.1L78.69 17.06L79.23 16.98L79.71 16.86L80.13 16.7L80.5 16.5L80.81 16.27L81.07 15.99L81.27 15.67L81.41 15.31L81.5 14.91L81.53 14.48L81.53 9.77L81.5 9.35L81.41 8.96L81.27 8.61L81.07 8.29L80.8 8.01L80.49 7.77L80.11 7.56L79.67 7.39L79.18 7.26L78.63 7.16L78.01 7.11L77.34 7.09L76.71 7.11L76.13 7.16Z" id="c37mAI27J"></path><path d="M181.88 0.18C182 0.29 182.11 0.46 182.11 0.63C182.11 0.92 181.77 1.31 181.14 1.95C178.52 4.48 177.2 7.57 177.21 11.31C177.22 15.43 178.61 18.75 181.31 21.32C181.87 21.82 182.11 22.22 182.11 22.56C182.11 22.73 181.99 22.91 181.88 23.07C181.77 23.19 181.54 23.31 181.37 23.31C180.74 23.31 179.87 22.57 178.73 21.13C176.51 18.41 175.51 15.41 175.45 11.31C175.4 7.21 176.68 4.43 179.2 1.56C180.1 0.54 180.86 0 181.37 0C181.54 0 181.71 0.06 181.88 0.18Z" id="d6YqIDq2lJ"></path><path d="M149.59 6.94C150.04 6.37 150.44 6.02 150.84 5.86C151.23 5.63 151.8 5.52 152.44 5.52C154.4 5.52 155.42 6.48 155.42 8.37C155.42 9.3 155.42 16.73 155.42 17.66C155.42 18.45 155.14 18.8 154.57 18.8C154 18.8 153.77 18.45 153.77 17.66C153.77 16.79 153.77 9.83 153.77 8.96C153.77 7.77 153.26 7.13 152.28 7.13C151.54 7.13 150.78 7.58 150.16 8.45C150.16 9.38 150.16 16.81 150.16 17.74C150.16 18.53 149.87 18.87 149.36 18.87C148.85 18.87 148.56 18.53 148.56 17.74C148.56 16.88 148.56 10.01 148.56 9.15C148.56 7.82 148 7.2 146.95 7.2C146.27 7.2 145.63 7.66 144.95 8.53C144.95 9.45 144.95 16.83 144.95 17.75C144.95 18.55 144.66 18.89 144.09 18.89C143.52 18.89 143.3 18.55 143.3 17.75C143.3 16.61 143.3 7.5 143.3 6.37C143.3 5.8 143.52 5.57 143.98 5.57C144.21 5.57 144.43 5.74 144.55 6.08C144.66 6.23 144.72 6.52 144.72 6.86C144.72 6.86 144.72 6.86 144.72 6.86C144.72 6.86 144.72 6.86 144.72 6.86C145.25 6.29 145.59 5.95 145.74 5.83C146.08 5.61 146.54 5.49 147.18 5.49C148.09 5.49 148.9 5.95 149.59 6.94Z" id="cew0A9K5b"></path><path d="M49.79 5.56L50.23 5.61L50.64 5.69L51.04 5.78L51.41 5.9L51.76 6.04L52.09 6.2L52.4 6.38L52.68 6.59L52.95 6.81L53.19 7.05L53.41 7.32L53.61 7.6L53.79 7.91L53.95 8.24L54.08 8.59L54.19 8.96L54.29 9.35L54.36 9.76L54.42 10.2L54.45 10.65L54.46 11.12L54.46 11.24L54.45 11.35L54.44 11.45L54.41 11.65L54.39 11.74L54.36 11.83L54.34 11.91L54.26 12.06L54.23 12.12L54.18 12.18L54.13 12.24L54.08 12.29L54.02 12.34L53.97 12.37L53.9 12.41L53.83 12.44L53.76 12.46L53.69 12.48L53.61 12.49L53.52 12.5L44.63 12.5L44.63 12.43L44.61 12.43L44.61 14.27L44.62 14.51L44.64 14.75L44.68 14.98L44.74 15.2L44.8 15.4L44.89 15.6L44.99 15.77L45.11 15.95L45.25 16.1L45.4 16.26L45.56 16.39L45.74 16.52L45.94 16.63L46.16 16.74L46.38 16.83L46.63 16.92L46.89 16.98L47.17 17.05L47.46 17.1L47.77 17.13L48.1 17.16L48.44 17.18L48.8 17.19L48.93 17.19L49.06 17.18L49.18 17.18L49.31 17.17L49.43 17.17L49.55 17.16L49.67 17.15L49.9 17.13L50.01 17.12L50.13 17.1L50.44 17.06L50.54 17.04L50.63 17.02L50.73 17L50.82 16.98L50.92 16.95L51.01 16.93L51.09 16.9L51.17 16.87L51.26 16.84L51.3 16.83L51.35 16.81L51.41 16.79L51.46 16.77L51.51 16.74L51.57 16.72L51.63 16.69L51.7 16.66L51.84 16.59L51.91 16.55L51.98 16.51L52.06 16.46L52.14 16.42L52.22 16.37L52.31 16.32L52.4 16.27L52.48 16.21L52.67 16.08L52.77 16.02L52.88 15.95L52.98 15.88L53.11 15.76L53.24 15.66L53.29 15.61L53.35 15.57L53.4 15.53L53.46 15.48L53.55 15.41L53.64 15.35L53.69 15.32L53.73 15.3L53.77 15.27L53.84 15.24L53.87 15.23L53.9 15.22L53.93 15.21L53.98 15.2L54.07 15.2L54.17 15.21L54.22 15.22L54.27 15.23L54.32 15.24L54.36 15.26L54.43 15.3L54.47 15.33L54.53 15.39L54.56 15.42L54.59 15.46L54.63 15.54L54.64 15.59L54.65 15.64L54.67 15.7L54.67 15.75L54.68 15.8L54.68 15.87L54.69 15.94L54.68 16L54.68 16.07L54.67 16.13L54.66 16.2L54.59 16.4L54.56 16.46L54.53 16.53L54.5 16.6L54.41 16.74L54.36 16.8L54.25 16.94L54.13 17.07L53.99 17.21L53.83 17.35L53.75 17.41L53.67 17.49L53.52 17.59L53.37 17.7L53.21 17.8L53.05 17.9L52.88 17.99L52.7 18.08L52.52 18.16L52.33 18.23L52.13 18.31L51.93 18.38L51.72 18.44L51.5 18.5L51.28 18.55L51.06 18.6L50.59 18.69L50.34 18.72L50.09 18.75L49.83 18.77L49.57 18.79L49.02 18.81L48.74 18.81L48.25 18.81L47.78 18.78L47.34 18.74L46.91 18.67L46.51 18.6L46.13 18.51L45.77 18.4L45.43 18.27L45.11 18.12L44.82 17.96L44.55 17.78L44.29 17.58L44.06 17.37L43.85 17.14L43.66 16.89L43.5 16.63L43.36 16.34L43.24 16.05L43.14 15.73L43.06 15.39L43 15.04L42.97 14.67L42.96 14.28L42.96 9.57L42.97 9.43L42.98 9.31L43 9.18L43.02 9.05L43.04 8.92L43.07 8.79L43.1 8.67L43.15 8.55L43.19 8.43L43.23 8.31L43.29 8.19L43.4 7.96L43.47 7.85L43.54 7.73L43.61 7.63L43.69 7.52L43.78 7.42L43.87 7.31L44.05 7.11L44.15 7.01L44.29 6.88L44.58 6.64L44.74 6.53L44.9 6.42L45.07 6.32L45.25 6.23L45.43 6.14L45.62 6.06L45.81 5.98L46.01 5.91L46.22 5.85L46.43 5.79L46.65 5.74L46.87 5.69L47.1 5.65L47.33 5.62L47.57 5.58L47.81 5.56L48.07 5.54L48.33 5.53L48.59 5.52L48.85 5.52L49.33 5.53L49.79 5.56ZM47.75 7.16L47.35 7.23L46.95 7.33L46.57 7.46L46.21 7.61L45.86 7.79L45.52 8.04L45.24 8.3L45.01 8.58L44.84 8.88L44.71 9.19L44.63 9.51L44.61 9.86L44.61 10.82L52.79 10.82L52.71 9.84L52.45 9.01L52.03 8.32L51.43 7.79L50.66 7.41L49.72 7.18L48.61 7.11L48.17 7.12L47.75 7.16Z" id="cFiSxUJuO"></path><path d="M67.34 1.76C68.48 2.62 69.07 3.83 69.07 5.31C69.07 5.99 68.78 6.33 68.21 6.33C67.81 6.33 67.53 5.99 67.36 5.31C67.24 4.74 67.02 4.23 66.74 3.69C66.22 2.79 65.13 2.37 63.42 2.37C61.92 2.37 60.9 2.71 60.28 3.45C59.71 4.13 59.36 5.17 59.36 6.71C59.36 7.3 59.36 12.06 59.36 12.66C59.36 14.21 59.71 15.29 60.33 15.97C61.01 16.71 62.06 17.1 63.54 17.1C65.77 17.1 67.08 16.31 67.36 14.76C67.47 14.19 67.53 13.9 67.53 13.85C67.64 13.51 67.87 13.34 68.21 13.34C68.78 13.34 69.07 13.68 69.07 14.36C69.07 15.8 68.49 16.88 67.28 17.74C66.32 18.36 65.1 18.7 63.51 18.7C61.68 18.7 60.26 18.3 59.21 17.45C58 16.65 57.49 15.29 57.49 13.51C57.49 13.51 57.49 13.51 57.49 13.51C57.49 13.51 57.49 13.51 57.49 13.51C57.49 9.22 57.49 6.83 57.49 6.35C57.49 2.58 59.42 0.74 63.44 0.74C65.05 0.74 66.3 1.08 67.34 1.76Z" id="a6aJpcbBg"></path><path d="M158.79 5.43L158.82 5.44L158.88 5.46L158.91 5.47L158.94 5.49L158.97 5.5L159 5.53L159.03 5.55L159.06 5.57L159.09 5.6L159.12 5.62L159.17 5.69L159.22 5.76L159.25 5.8L159.28 5.84L159.3 5.89L159.32 5.93L159.33 5.97L159.35 6.06L159.36 6.1L159.38 6.14L159.39 6.19L159.4 6.23L159.42 6.27L159.43 6.32L159.48 6.44L159.5 6.49L159.53 6.57L159.54 6.62L159.55 6.66L159.57 6.74L159.59 6.78L159.6 6.82L159.61 6.86L159.86 6.74L160.35 6.51L160.59 6.4L160.82 6.3L161.05 6.21L161.28 6.12L161.5 6.04L161.71 5.96L161.92 5.89L162.12 5.83L162.32 5.76L162.52 5.71L162.9 5.62L163.09 5.58L163.26 5.55L163.43 5.52L163.6 5.5L163.76 5.49L163.92 5.48L164.08 5.48L164.54 5.49L164.98 5.52L165.41 5.56L165.8 5.62L166.18 5.71L166.54 5.81L166.87 5.93L167.18 6.07L167.47 6.22L167.74 6.39L167.99 6.59L168.21 6.79L168.42 7.02L168.6 7.26L168.76 7.52L168.9 7.8L169.02 8.1L169.11 8.41L169.19 8.74L169.25 9.09L169.28 9.45L169.29 9.83L169.29 14.59L169.28 14.78L169.27 14.96L169.26 15.13L169.23 15.31L169.21 15.48L169.17 15.64L169.13 15.8L169.08 15.96L169.03 16.11L168.97 16.26L168.91 16.41L168.83 16.55L168.76 16.69L168.67 16.83L168.58 16.96L168.49 17.08L168.39 17.21L168.28 17.33L168.16 17.45L168.05 17.57L167.92 17.68L167.79 17.79L167.67 17.88L167.55 17.97L167.42 18.05L167.29 18.13L167.15 18.2L167.02 18.27L166.87 18.34L166.72 18.4L166.57 18.45L166.25 18.56L165.92 18.64L165.75 18.68L165.57 18.71L165.39 18.74L165.03 18.78L164.84 18.8L164.64 18.81L164.45 18.81L164.01 18.81L163.77 18.8L163.53 18.78L163.3 18.77L163.07 18.74L162.84 18.71L162.62 18.67L162.18 18.58L161.97 18.52L161.76 18.47L161.55 18.4L161.34 18.32L161.14 18.24L160.94 18.16L160.74 18.06L160.55 17.96L160.35 17.86L160.16 17.75L159.97 17.63L159.79 17.5L159.61 17.37L159.61 22.86L159.6 22.96L159.59 23.06L159.58 23.15L159.56 23.24L159.54 23.32L159.52 23.4L159.5 23.48L159.47 23.55L159.43 23.62L159.4 23.67L159.36 23.73L159.32 23.78L159.28 23.83L159.23 23.87L159.18 23.91L159.12 23.93L159.07 23.96L159.01 23.98L158.95 23.99L158.88 24L158.74 24L158.68 24L158.61 23.98L158.56 23.96L158.5 23.94L158.39 23.88L158.35 23.84L158.3 23.8L158.26 23.75L158.22 23.7L158.18 23.64L158.15 23.58L158.13 23.51L158.1 23.43L158.08 23.35L158.06 23.27L158.04 23.17L158.03 23.08L158.02 22.97L158.02 22.87L158.02 6.56L158.02 6.46L158.03 6.37L158.04 6.27L158.05 6.18L158.06 6.1L158.08 6.02L158.11 5.95L158.13 5.87L158.18 5.75L158.22 5.69L158.25 5.64L158.29 5.59L158.33 5.56L158.38 5.52L158.42 5.49L158.47 5.46L158.58 5.43L158.64 5.42L158.73 5.42L158.76 5.43L158.79 5.43ZM163.28 7.17L163.05 7.19L162.82 7.21L162.6 7.24L162.39 7.27L162.18 7.32L161.99 7.37L161.8 7.42L161.62 7.49L161.44 7.56L161.29 7.63L161.13 7.71L160.98 7.81L160.81 7.92L160.65 8.04L160.48 8.18L160.31 8.33L160.13 8.49L159.95 8.67L159.75 8.86L159.55 9.06L159.55 15.6L159.61 15.6L159.61 15.57L160.08 15.85L160.53 16.1L160.98 16.34L161.4 16.53L161.81 16.71L162.21 16.85L162.59 16.97L162.95 17.06L163.3 17.13L163.64 17.17L163.96 17.19L164.24 17.18L164.51 17.17L164.77 17.14L165.01 17.11L165.26 17.07L165.49 17.02L165.71 16.96L165.92 16.89L166.12 16.81L166.31 16.72L166.48 16.62L166.69 16.49L166.87 16.34L167.04 16.19L167.18 16.03L167.3 15.86L167.4 15.67L167.48 15.48L167.54 15.28L167.59 15.06L167.61 14.84L167.62 14.61L167.62 9.86L167.61 9.58L167.58 9.32L167.53 9.09L167.46 8.86L167.37 8.65L167.26 8.45L167.12 8.27L166.97 8.1L166.79 7.95L166.59 7.8L166.37 7.68L166.19 7.59L166 7.5L165.8 7.44L165.59 7.37L165.37 7.32L165.13 7.27L164.89 7.23L164.63 7.2L164.36 7.18L164.08 7.17L163.79 7.16L163.54 7.17L163.28 7.17Z" id="g1eXYp6hy3"></path></defs><g><g><g><g><use xlink:href="#bhBdYFqzf" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#bhBdYFqzf" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#bvatw1rZG" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#bvatw1rZG" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#kheioiymm" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#kheioiymm" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#ay2lFwqBt" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#ay2lFwqBt" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#b29c6lMP53" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#b29c6lMP53" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#h1K5OvIsAQ" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#h1K5OvIsAQ" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#dda7d5c9Y" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#dda7d5c9Y" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#b1qEueV7Mq" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#b1qEueV7Mq" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#m4GdFVRLeZ" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#m4GdFVRLeZ" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#c37mAI27J" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#c37mAI27J" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#d6YqIDq2lJ" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#d6YqIDq2lJ" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#cew0A9K5b" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#cew0A9K5b" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#cFiSxUJuO" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#cFiSxUJuO" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#a6aJpcbBg" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#a6aJpcbBg" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g><g><use xlink:href="#g1eXYp6hy3" opacity="1" fill="#ffffff" fill-opacity="1"></use><g><use xlink:href="#g1eXYp6hy3" opacity="1" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="0"></use></g></g></g></g></g></svg>
+------MultipartBoundary--ZGAndevhDrmSssjuhz5WJuDbmLSgduCbEkS7GijD8w----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www-freecodecamp-org.cdn.ampproject.org/i/s/www.freecodecamp.org/news/content/images/2021/11/7-questions-new-developers-ask.png
+
+‰PNG
+
+   IHDR  4  Í   G©Ø    IDATxÚíİ‡{Tuú÷ñººêª«®ºëºêêZw¥÷"-½‘	@ $BĞkB „ ½PÒ{/tí…çïxîI4fÉœ{Î”„ ïëz]¿ëyÖ0sæÌ™s>ßvÿoû—ÿ   íÄÿq
+   g    œ  Î   @8   œ  €p  @8   á  €p   Â   á   „3   Î   g    œ  Î   @8   œ  €p  @8   á  €p   Â   á   „3   Î   g    œ  Î   @8   œ  €p  @8   á  €p   Â   á   „3   Î   g    œ  Î   @8   œ  €p  @8   á  €p   Â   á   „3   Î   g    œ  Î   @8   œ  €p  @8   á  €p   Â   á   „3   Î   g    œ  Î   @8   œ  €p  @8   á  €p   Â   á   „3   Î   g    œ  Î   @8   œ  €p  @8   á  €p   Â   á   „3   Î   g    œ  Î   @8   œ  €p  @8   á  €p   Â   á   „3   Î   g    œ  Î   @8   œ  €p  @8   á  €p   Â   á   „3   Î   g    œ  Î   @8   œ  €p  @8   á  €p   Â   á   „3   Î   g    œ  Î   @8   œ  €p  @8   á  €p   Â   á   „3   Î   g    œ  Î   @8   œ  €p  @8   á  €p   Â   á   „3   Î ´O57¿/:yqı§Ÿ®­®Ü¸{OùÅ[u·æ´  œ@[«»swuIÁˆÀÎnúñÿ5òêñLBRXşÑÓœ „3 hS’Ì¼º?ÓËšõ~¯üb=§ á­¥öÖO%g®Ÿ¾ÜÚÊÎßØ~çn[KÕÿPröjveÙœe³'EŒêõ^àà×ıú¿â?àÕÀ!o„ù|8fäÀ¤äÈy+ç®­©.»P_{ëG®ŠG\õõoGv¶šÌ¥.Oá,=èÖ[ßzø˜nÛ'ênÿâÜ»¾rM=·Î``óŞ^=QC®"O;yæµÕ˜Ô/[›»25*¼·{—'Ì¤W÷g$«-ÈZRtòBÛGI´Û¾8îİóYå:5¼gé¶åà®OÚ¼!¸u|,«¢Ô™»«Ñ+{v{Jò_gx4ÂÙ»wïôéıggÖÿ“¿NôWÈ#ù£Ø/Oeåòó~Ÿ³ô(„3îÿïªk_Î@8áÌA¥ç®O6Jîz®:fŸŞÏÏ]9·òê¹N­'÷Ã]ÿ¨\Ã;q–‘p&1=-}şö/ïÎ@8áÌŞqÌ»ëwìóıĞõGŞ±ÃèÈ,Ğ{ ¤e,HH
+onZê„š›ßÛû:eço¹½¥\É³Ær¶‘p&ş­àØÂg œÙ'£x›OŸZïàƒÜŞÌÛˆ«¥=«¸ü¥w¯çïùâ‡ü£êÚ7ÏL›$¹ÜúÄÄÊÛ˜şè„31yÚ¨:û'¡Î@8Ã£ÎîÜM/Èóìötkÿ°Áß¼w?L»µtCVË8å`8kX°™8)âŞ!ò†z-£h‹EµpæŞù›öì#œp†‡-œÅZ{ë'—ÿúŸúö}©¿±ÀUÉ™+\3í\ZÑÃû¶üÊg–±òÛ¿lØ¹+uyŠ¤´ø‰ASfÄHş+>s™³ı†3Ëİıí"'œp†vÎÜ:=¾rk®Ë¾üb}¨×{v5ƒİÿ9fäÀqc½ÇÅzŞ/ÈíM96ó¯0>ÎÏ™ºGh½g­w¯ç\Î@8»çî±jÛFÂghE§.NOO5ÖIqã|•ê!ÿrıšÇ;w§Ìcæ®êÑõÒê]•¿©ìüÚú%]ÕİipûgùÿŸ¾´$'}dHw÷ÎO˜¹A/ß¼Ë¦½IY<Ãê÷E8ƒ«ÂYcß¹¥˜6á„3<(f¤%)7µ´ô4—¿ãÆİ{ÍTÍõz/³¬ØæˆjÍÍVnÛ0lĞk6_0Äã²ó7ùÆÛª«_‡û}D8Ck‡3‘²xºù²„3Îp?•œ¹2lğëF·!ï^ÏÙÕÜ49hB| Í;idH÷âÓvLÚràiÛ,®±0{éÃ“l®³åàÑìÊ²Uù›–mÌ^¾ymFÑÖ;wŸ¾ÔÓŞ«®}-'ymU¥åí6­‘w\±e}Vy±DíÒs×{ÇœíuF½¶í6œÕÔÿ˜äÔºÚšô‚ÍË7¯“S±jÛÆuuµÇÏÖŞş¹í§îÎ/…'Î­­©’ÃX¶q|)™eE›öìwùÙ«»sWnvîZ]œ/ïb¹ä6­‘“ o½õĞQ¹Ûy8óîùláñ³í$œÕİş9ÿè©u5Õòk’_®¯/§®VşÇºûqp†ö%-cVjf¬c%yûy©ìXJ{ûı»äìU{_Yÿ¦¿r°ÇÛ6ZÉ³Æ‹õ2’³}»ÉãYº!SyEk—;2}¾şÇ¼‡SOîæÙıi·N»uìğûRÇÜ:=æŞù¸'&ËƒÓÉ}¾+.¹¦ªB.ƒ0Ÿ÷å‰Øğv5[YÙÁí·wôëÿò˜¨Ás–ÎÊıô³ŠËwlf5Éè’ê”}0=»=;Ú]ı"ê¬÷ÏKPşÕšêJ‡ÙLç®H
+ëåİó¹{Ïƒœ„¹wzÜ§ÏcÇx,É]]|ê’d&ŞHş­ÕÃŞøùYù›ìÊò„Ä°€Oşêş?Çóë—âÑõQá½®YfW#§å×TtòÂ¢µ+äüû¿"_´¼rÃıÏg—âÑåÉP¯w’Âä²Ï?rÒuÎ‡3Ë©èüåç?aB€ÉèÓáÌr2Oœ_µ$&z°Oï?[½ŠäôíóbÌ¨!‹Ö,/<qŞÌU$Nå‚_ib²]¥ M’ò"baö23óUÒÒç+/Òò2áVT^ù*Äó]e·ÊÍû¶Â£é6vÉìñ§õ;v8öâr'r3¨qÕDúú‹„û~¤üóy9&fÚœ	ÊëLJiïD=9ò±1vu¹½5oåÜ²vG´Ê«ÿ]´n¥<n‡Ú:Ÿ-»'ƒİß<}´|‰57°úâ¥ç®M›3ŞfF×­Ü²Şê‹G†tSşÕ’õööp¬©*‰¢o<pß¾/%ÏŒÉ?b÷bSgµú‚Óç&4?¤ìŠÒ‘¡=ÜÌ}5ş^MË˜ï@GšÄ ¹J(C(ñ%:¼¤Ó=U.	g3æ&Œ ÏaÍ®,»/áLšIÉ‘víM'g~ÊŒ16¯"¹¤•‘K×f™·ªëßØü1FøıÛÌMC¾hè¹<Çc—pÛVmÛø{¸e1îµõ?ºö«o|g4Ç¨IÒ”È:GGåjêˆ
+ë¥¿~âäá\8«¸|gÒÔ(Ç¶·’Gx˜ï‡¹Ÿí4ÿvò<ˆïmé#q"<YznÂzİs;®»ıËªüMÁîÿt~q„³’³WããŞUÌÀ+iéókoıì|8óùà×®Ó[?KPóìş´k®;Æ½üâ-óG²tC¦ó•n|û½4}îÄ6gÉ3c×ú©{my„Z3nº0œÕŞúIÂ±Ã'S²õÒÜL}F‡­¼{=g³SÚQ6CÚÌ6G3ä«QVĞG…÷n½şTÎrËˆğÿáÚÆ.Od•—¸üMå¦¦ïK-ïëä†K«K
+ô·ò†QNûgÒæ¶™hmG¥nO-Û˜mfL'oßA¿ş/»ª¼\Å¥ÛÍ{jGG~¢;í'œmü|·\*Îç¸X¯RÓ7Â™ü.
+‘ëvò´QITx/3+¯åÎ0{a²»=uj©ËSÚ,œML•?Ö~H‹Ö,o³pV~éÖ„	növ?·Ø$tÊŒ1F•ÀåªP¦›³N5SSiuI¾ş:2kWÂ²Ù<v	g°-»¢T™Ÿ1< cõ×·rä¶¨ßFèd5²²õzÇŒÜ[õŠáí*œå=äö¦K“òÁ—nÈÒgƒ•œ½î²}N;ÌY2³ù‹8ïÂ
+|­Îr¶oøä¯®:Ô¨ğŞ&'~…39™²–¤¥§¹9—™¦Î³9iùæu]tÍ%×ı™¢SÛ,œñ?(8~Ö¯ß_ô¾(›ëœ\Î¤5;j¨kêMv|lòôÑFC3æ%hËT—ÌĞS®O3Ç0=5^±1J?º]÷ œ=ºİf1ê]cÑÚ•­ñ¾‰“‡ë¿W¬¦¼;11DË7­} ÂYùÅ[#‚º¸0ĞxõøÓ†]»•imwù.z¯{§˜<(áL½CşáÚbÎcF¬¾ñáÌ2>e×¼7£@Ÿ”]yõ¿şŸ¼êªO=aÂ0ÇF8ÎFï×xÏY6[¿Œå·ÙÚáLî±}x\u2%—K@·ú^k*Ë•ÔŞ[o™ì)ÚC£—Ë[™8ä××Ëáìá³şÓO•™4şı_i¥R„ÿÇzØÍû8ÿ.K7dÚê?×şÃ™ÜÜmfÙ†Î‰§¿âùn°ûÛş^±Ù³æóe5¥õyú×Ít¹w~Ü³û3ò¾úäø‰A÷¼şÎjêˆîÖ›mLO·9™R	g®"ß‹Ò9½xİJ3}¢%çÉ=D¤–ËÃá•=…³koYú–*.İÖgxõ|vãç{[1œİ¹+gÒæ¬M.Oü[°ÇÛ!ïzÍfø–s·ÿµıß*sÚüúı¥ØxóºìŠR“İ±ò\Ÿ°Ñë¬«­Q^'iÊ»„3Ø^€61!XùÎœ?Ùå4šVßúª+¿†~İR1Ëé7Ú°ësı67&j`ûgÙeúÂLï^ÏÏ˜—¸q÷ŞÊ+_5†¹’3—Wç9PydÊš¿z¡õw¬,·±bËÿ?Òv_W[»iïşM{öKÄO/Ì›µ0ytä 9˜{Ş¥åƒ¹äÌ• ··šøxUOêACßlş÷÷È,)hp¦Ï›iş„öxgDP	ÁîÿÔ+84=YmìØÎä$ôZdpW9ÿÑá½zûl÷ÓøõÙR	Ïà bGÕ?õÄ„Uù›7ìÜµyßÁŸïY[S%§4iJ¤„ş{ÍòEM“j¥pî÷ï¦w\•¿IÏFcc<•ùéN†39ÃzY¹`$%K );£qã“ò‹õ9Ûë'Eè÷®ñq~Vërë£´¦”	Ä3Ó&Y]Abõz“›’cËğÓó7óä%œÁ†‚£§=»?£<ò·>Şï[tò‚<Ÿ”°<ê\²œGîŒ>½ŸWŞhx@GåÚI8ÚCùçrë—lduYõïR–ÌPòY¨×»VîÍ]9WOf¥ç®ô6ıXxâü¢5Ë£Âz6N$—ÈÒò[@—n5É(Ş¦<>‡ş»|ÍÿşF«:œ	g¥ç¯}Ãf™ŒÔe³óœ¬¸|G¢€(¿t{ËÁ/¦§Æ{õ°Q &zˆ¾Ål8ëØaLô`	FenÊ×]{ëçšúÊ/Ô§n1³6³´È¨Š¤^åMç­šk4°%-ÉjÓRÆûx¥¡dW‡EkW´q³Ï5-@‘3jx?=eç·R8›9’¾yñºUV3–üE[½ŒïÏrëŞ´{¯µ.ÏUZ¯­ÁšYù‘Zp–4e„Õ~ñY&5ø•eò’íZ)ÂÙ#J LLuù4‘F›öìÓ…ãb½\Õ5è¯ÏÉHjí9œålß®óìştVY±~’gÅ*ÃR…[í=`},¸ù³SşråÖ\›¹¶¦Z	gïàL8›¿z¡Í¾Ce5±<5‡ú»¾y]]­“áL¢‰Äh£T|æJ°Ç;ú+ÌZ˜l´˜F×–ƒ—/×L¹‰İâ¨®çd8r{³ùşl–mâÔš#d&:Î$¬+õÌäšŸ½hš>À½|ÓZ¥/ÖòKlñÏU–qŒíiµ9Ztò¼ÕCÍ,-´:¸Ñ×ê¢„‚cg”qUË\ÀVØ³„³‡JÉ™+¾ı^Ršt9uu­ôÖk««ôÑ»ë²“6´¾\«ØxY{gIÉZ9€øø ›kZ‹N^h¸ßhBRxËÇÃ´”ñÚBÚÈO\[¦¨½…³êëßê³Í¼z>k3¬­©Ò—:&NŠPÌfÂÙ”1ú†³E[õñÍ¸q¾V–ÒbQV¸u|lå¶÷ı¦í0ğµ’f“«¤‰2eúhıdÎ[5ÏåálÙ¦5JíK÷Á¤ÏæW~nJÏwËñbù'Êâ!I`…'¬€Í,+²Ú9W|úr²µKÑ»×sVûÀÒ·(É¹+æğä%œÁ†Ôe³•_ÑÈvÕÌ´KVY±>óÔæRm{ĞİõÚ˜VoUí$œU\ş2hè›Ê3Rï}iZµ*oa¼Õ;5õ?Ø5kÄ½Óãrñ8Yè¤=‡³­‡é=»6—øY†¥nÿ<~|€víõyQù\6Ã™OŸšw¬¸üJÜÖÓê÷Xuıe§İÆ.ç†]Cî¶Ïpæ×ÿei“4ÿãÂãç>Ñæ~I-8vÖµá,Îxú—™ÂM	ÏèF-w «[/LO¨¼ïjkc¸ÓRâ¬®«ğ·ª`³Õ×±zó™2cŒ2|¼q÷^¼„3¨5ÀÎßĞïÚé­8m3£h›^ŒqæüI®z¯èˆ>úTúü£§Úm8Ëıô3e)€<[æ*«VnÍu3¾¿—½wí…|4›İ61£†ÈáÕ¸bëˆöÎf/Óç	m57s]mŞC¼¶ºÊáp&OAÛÇpçnâäuïÚŒÊÛ\©êİóÙÙ§Z–Ü§*%œùö}±ej±U«·ÄI-{"óv,œ•]¸©×aÑ‹,6¯çâm\÷?½p‹õ¡	ãÖïäé£[Ì½î÷o+95z{Ã6!V7˜½hÚ½™şÚ7a>.÷~_Z›<|	gĞXva3¾O»½åØãĞt8Ûª‡3£©0Ù_Àä9ÙnÃÙ¢µ+´Š¦a½Ì®Zİ¹Kbk¹rpë¡£fVÊÃ)v´{vE©>·ıgzá’ÆîSM 7•O½ïÄf8Ëª(5sóV¥é;7…³©³Ç™Y‘0lĞß¥)åØşß­Î¬6ºª®«løØx=·\Y,ïâX8Û´g¿ÒÿêŞù	“sª®cYZa4P¸r®ÕŠeÊ”ÇP¯wïO/=wİêPÆ²Mk,põk«åH~-&÷¿9R±Üè˜pF8ƒ>Áj;é÷é+çµêd–é‹Û]¸Ÿ¾Ã¦OŸ
+i·ál²:Q&:¢Ovy‰ò”p–^geÒ•:|Ïôp¹w/Ì^Z~±Ş±½PÛ[8>¬£¶åëdÓ…šîÜ3r c_ôpæÕı™’3WÍÃŠ¼õ…³†mÍÖM•04~¼ÿšêJ'cºËÂYÏç¬6º,ë‚ÕMÃF†ô¸gœ7ÿèiÇÂÙÊ­¹ê öYeÅf~¼Yå%Ê>É³b­^xcc<”=vïÙ¦bUşf½”Zâ¤«7Ïæ{²mWw^—Óa­“„3ünuq¾>GŞå­´èu¯Ô;fLÙ˜¦îAÔrnJû	gòˆqÑ–/:«»)§çoÖKËZ›küüäiÑ›öìÓg©·ÿpæÛçEå¦¥Ï·cA´Úÿêı¾cá,Ôë=“Õ¡-´
+gò€9ÀŞkIbº´JÎ^»ßáìÙü/NZ+ñÃØ1îzYİÆî¢æëig©Ëg·Á7!)ÜúØHNº26²"o]ó?45ÊÚlÔ·›®1«©Ë½óëjkLÎ±óí÷Rñ©K<|	gĞj+èÓ°&OU×ÊÏ–Q6µªê„	Ã\õ^ú¼fyğ+Õnïo8«¾ñ]dp×6¸¿[-CUSÿÃÄÄPGöêşÌøñşò›¿ŠÚU8“Ó®¯VYa°!Á¨â<­Fİ'5ªà ‡³QÃû™œí·º$ßÁpöåÿËÛH¯l”o‡¾‘º<¥¼u*h8ÎËjx÷zN9şwš—ñ+»pÓ±p–Üú{<(·J90¥³<qÒï‘®¶şG«-Ø¸8ßf«"ö[­EÒ|óêß+»?µá÷NRV‚‘<YåwØÚÇPpìŒWgôı¡íí}±^gèb½ŞæóÒqÃ™˜2»¶µÃYã\“1ÑƒõÙJ…Lù\&·yhWáÌ2ÿFùZSYnÇäÎœt½ãÖ¨˜ÎâÆú˜œ¾ãL8“·X[]¥ï®ªvû§Y—ü]Î¤Í`c:]Ç³&7^ù:ÎkÛØÎÆ}L¥Š|ïMßË–ƒG­¦Õ´ŒÍ[,V÷9ˆ‰Üt¢,Õ+ûÚ*•€p††FÒ­ŸâÆùªKğ†¶ÁaT^ıZ©ÍØPèòK.($·ï ^|2:¢¯ÒÁãªp6ef¬á¬âò`÷·ïc8kœ|6-e¼R¦\ìşO£İÚm8+>uIg÷åè–o^§ï1Pb°×¡Î’ÂÌÎap&œıÖ6|X§¡Û·»Câäá•W¾l?á¬¡3¬^™bßX¬©]ÍÍïİ;?á@8?Şÿ>†31cn‚ò›L¬Ü¶±åäB·Nç~öYóW7ÖÛz±ßßŠx/Í]m8I±c‡­‡ñü%œÁĞæ½ô}“²íépF¨÷ûz¿‹KÖ­Êß¬?håÉ¡üsW…3«S:ˆpÖ8.qÄRXÁ¡Ç³_¿¿XòÙƒÎŠN^´ÎjªÍƒ¥H•Zf¯Ô`z–ÎÌïí|8kè¾•º|c]hn;ÄóiÜõµ„3Kµ”¬¥úaKiš¦fTÉBgwÇÇùİßp¶¦ªBÙœ û·Õ¾3æ%Z]Puı~tóÒÓ¬§›R¬2ŒäöVëu ‚pöàÏ6»óË¤iÑÚŸï‡F3`\.~b~ÓYµm£óï2mÎxı]d.nƒp6aB€#ÃšW¾ÒWş·M8kêBK/Ø<"°³™÷¦«¡oÜ³:¬=‡³²7õp–U^lş¯[©k–ÿïz7“álÒÔ‘mÎ‡8åKœo™WdgL—|&¿D—ïçL8«¼ú•RF¿±ë¨qüº¦şG£‰wzÏ™Í[\k‡3¹’•I`ãŒF«¢#úÜ;Qx×çJ¡µº;w­nÍùÛ<æh¿„3*>uI)f8ôãÖÚŸØª´ŒúMgbB°“ëª®}áÿ½DÎímÎFèï@8“–ëğÀNzã~îò9ÎÛ´Çì,Cyg•—Äõöîùœ]ÉÓG)ÏævÎjoı¬Ğå›Öš?†ÔåsÔ"a¯Õhwáì÷9y×æ¯^æó¾l¢euxó—Y„³íû”èû@HSDHµ·~4ª×­‡3½¿<"àc—üxWoÙ.ßì¸X/Ãß&mÿònÅå;V§¦µÜ×\N…w¯ç
+†—¿a\q·ƒ¾ÿ/gºY“õu‹&+'¹h€u¿^EÉ§÷Ÿ+.İqæ-Öú©¾¹¡oß—ô½í\Î‚ÜŞt¨”ÆÏc¢¹ª¦ƒ+g.Şş9oÿá©³Çùö}Ñìàfÿ—OœPJiè{–ÏY6Ëü1èOèp¿+¥!/{¿ÂÙocî_fm5b€^°Ğü‚¶gµ·~²:ªùØß‚ÌEògFU!õp6géLåÅÇÆx´ÁæW‹Ö,7ŒA]ª¯[xâœg·§­u—¶<]VK«È©k¸!Íîµì_l0±„34Ìıä¯ÊÍbFZR[OÕµ¯ƒÜŞÒïæÍ—Ù_1ä—ø‰Á6¦•Äxê/¢‡³ÅëV™9’’3W¬¶8Í¡UöÄl,zr_GÉïÊGKY<M2®™j¥J–moáL¯ï5~|€É>]}¬§á¥üg#ïo8kª·’³½.v´›Ş
+jÚŒ\~õí'œ5Ö›€¥n¸ù×ÂãçŒ
+YëáL_æó~]ë—ËÏÛÈh’qÀÀ¿•»¾¶ºÊêš}«óf-˜b}óõßemS™9spö³#ÏÑw1j–íq6w†)v´î†»lÎZ¹5W‘?mTtö¢©f$«¬È½óã…³…ÆßÆ: .ŸÇãØpyòÌXı!§oŞŞÂ™4TÔ¥Äÿ2¹ü°øô¥ µE”º<åí9k9÷ÜæŠN¯Ï4Uœo'áLL7^Òøë©3jˆË·o’Şd¡g4lc½…éŞéñm‡/ÈZb~ƒ²5•å-›aİ®¸|'eñtÃy½YKxşÎ`4q'\-”?>Î¿íÊ2ìØõI[3ÏBLî@wÏâ2Ë£ÂÖ@›ü™ş:r“²50aû`ô-˜ll|şÙNåIúÌÛw¨=\`u·I/Ü¢/0a˜QWA{gYåÅúh×=UŒ±a    IDAT4ì!«ú­­©z8Â™¥oşbıÄÄ%ŸÉåª|ŞûÎŠO_ò†ºÏı“F	ÛÖÆçõCßP»ŞW¶ÁosjŠa8³¬hÊŒóı²ÇÎøôy¡åßç8<aB qáÌ<‚	g°nå–\å!!ÿÉäÃÆµ$uŞÏÖ:¯ÇfÌK¬5Wı×$zévÜ8›mÓSãm+èÃ[–q[ÛÔ?§&ëá¬êê×!ïØX6ÑN†îÜ•Sªï#yÏ®…¿ÇôÛ•Ùå_³£]ÎJÏ]Ó¿5KYv[\´1ÑCÔY•/(Ã|Ä°æ½¢K·•úaò[¶k¡kÛ„3ËŠÚœUv-n0Î–iÓz¾½ß×ç¼ºDvE™QËg~Æ«³Z—o^kÔ7<àc«{f5†C<ÿe×İ„³Gˆü6,Eª”½~ÃzÖÔÿp_-«¼ÄLi†ÄÉ#ôZM¶:ªÏòùu*IÿW
+¶ùj	Iáz€…ÙKõ3ouÃ`óáLoø6>VmÛäØÌâÊ+_ÏÉÙv 0ÕÊ­Ô@hh6~¾ÇİøéèÕãO-ôs8œÕİù%qòpuíáMe¢Œ¬Ú¶Qï6Kš<BiÜßp&ÿcşÑÓšíñ`õœ5ÌıF9lgÂYzaÒ%,7és':V LZ¶&GE-«,ÖVO6ªeÛ¯ù~ç-%MamÁæä†‰§¦÷eá¿)sA:vX¾yİ}·~2¹·wĞĞ7S—ÏQ"ZŞ/¦¥Œ7U'Ó²=ËT3»ßÌ]‘j#äxeÓ}FwÏY&›i‘ëáL@ú‚8¹-f–ÚuÚ‹N]LËXæóáê’«0{ñ´p¿ä„;cGÙˆeÚNÏSg5ú‡ÇÏê›¬OšU{ëÇ6g"§®Î£Ûõ~ÓµÕUFWQVy±Ñãª)©è;ÜßaMÉ+a>ÄóM/Üb~õï”­l-#\û¶Ãp¶½aS;3‹Zìgr0.0Ñ0fÚåIeŞ¡ÁÈÀ¹cKtÆÜ“ÿÄhÎÜè‘½ZW
+r{KÙÑnqÎ*«âFÃÙÒüæL8ƒõ>€X5ı„z½çØ˜‘«ÈİÍtE†İŸ>¬SÒ”H¹£-ÈZ² sqÊâéCC<ß1³^ì·úÿ6Ù-”³}»ŞùÑ˜f/-:yQ^Siò%A®È[ÜÕæ¿5Îl4L‹ù£Ü©Oœ7j…ËXn¸ùGN-ÎI—;µg÷gn¦2Š¶Z¯ºòÛ²,yüD…õš»r®4¦+.ß©½õ³Ñëoü|RñR,İ¥dtµŸ¥"èÄ„­‡5œä¯åÿ–]¸)‡´xİªøø@y6¸<œ™i6ÈiO˜.1®ôÜõŠË_Š²ó7¤-?1X/ Õ°„mˆQ…³vÎ†ş{ã;ùy&$…¯Ü¶A.ò†yâwúŸ,­ãk^Z2®Åsa8“=~|€ËÃ™¥˜ÅÚú:	9ccc=7ïİo4¹¶îÎİªëßŸ¾´jÛ¦„¤0ù:O²ùN)£‚V[}qã|”—Ú¸kwËkÛ¨	êİë9×®Ïáìá±aç.msÉRWÌ¹ßywÙ¦56f®âÓûÏv}n¾'À·ßKf^Ö£ÛSÁîÿ”Ø'ÿ×æºE{ÃÙÖÃÇÍ†Ü
+%OHZ]¶1;½0oUş¦å›Ö¦¥ÏŸ:{\ìwÉ¯-†m‡³æC0C^í&ÿI^_"ˆ\Zví^WW»$wµ$'½,­üW}s½¨ğ^&
+™>!Íú0ßåÿ6ßªYâ£ËÃYc“_¥W?ù‡ğêñ¬É¿·9Ë³„³{Âèğa%Ì[5O®œõ;vlü|·\YåÅÒXŠêªwñeèvÎ,3"ùöyÑåá¬êê×úVM±G†ö˜/Í'ùå¦ä­ÈË‘VŸ4ºÆÇùEøÜò6n>œÉGÓ{¦Í0’°å×ßì.^rÛiËÉA8kİfú¬)ï^ÏŸºtÿgÅİúiæüI&û™œ!7SË\W{Ê%ÏŒií£²Î¤é,íoÇæ,ë=‘æÃYË+ÇÓ0_ĞÔ`PLô}^°>$ªk¥p&
+tpù7>3-ÉæEx¿ÃÙ×-ÃYË¼.|ó—¥Ñz;	gò+›9²ËÃ™eÍõÎÒ&tùUd>œÉ·iTPÃÚJäú«Ù\ÅÕd!E4g0šï£—?Ú^¶<“'ÄŒy‰z=0g“Y÷g–æfn·³ğcş‘“æëà+o­¬b³Îó«eŸĞÚM8³ëã?msïsyÈyu¦½…³êëßNˆtséií®h¶‡V{ÎœÑÇå«ö\ÎVé^·YÛpÖ¸VÆåƒvÍµŸ–2ŞdŸ®Íí•MŞäW/ Â„3X+m0w¢Ş‘îÚšÎ÷ŸÍ[5OŸ{ä0ÿ¯¦lvì4ÊQ9Ók%ÑÅ9é+¶¬w&œ5®ıœ<}”ûßßp&É&eñtßşÏúÉûÎ¶7ÔÔ7ù±CÇ£#?)9kj“´‡)œ|òW×.h¥p&Väå´F8³L¥_·ÒË¥77»ÂYVY±™›XTxo›/•YVdæğ†ëXuıÄ„3´¨9tñ–Õ‚ÍFš;°®µÇa×ÕÖ„z½çÚş¡Ñ#úË}Üáìªo|?!>Ğád6cn‚äªü#'†6L†³í»å¤e,ğt´‡©íÃ™|ü)3cl¶Å­	wâœ]ımÎ,Å®şW‚£óÃîññæß´Ã9gñëÿ—†u©wˆpVSÿãÈî­Îäæ&	)`àk÷%œŸ¾$TÛî»˜ëJÎ\1ÓDTváì‘–ºbÖmÖéñÌÒ¢öyäU×¿M]–8øÎâ…z¿¿"o½óe6%]%Ma~AhÓı…ÙKWPÊ+D…õt2œ5®ŸØ¼gtD÷ÎO8Ù‹0ğoFóK”ÍXìê/Yº!Ó®2N›vï°U³·íÃÙö†½ŞWnÛĞ¹&‡zmÑÚvŠûÎ®4ôM'/ y„GGô5_ÚC8ÛŞ°s‰É… v…³¦‘Ó‰	!Î·¯¼{=oï¶H±&Š™©|!m­0u¿™Æ¯>»²Œ§0á-ºÍ.İÖ;!†t¬¼úU{şeêf/‹
+ï­o
+¤ç”Å3\U ]¬«ò77Èî`f¾EÜ8ß{J ÍY2Ãáì×.´Œ¢mcÇx8pr¼º?#ÙnAöRe|­èÔÅÔåsFuqh¢L¹öfÌK(:yÁ±Ò*ãb½Ìç`ß~/Í˜—ØÚáì×kòüÔe³C<ß5Û‹Ö±CĞĞ7f/L.²‹ØûÎú°«C-uËìo#If’X¶rK®Õ-Ûy8“_º™ÚÑ…³Æs›»s—|ƒzé£š2~ÿµ0Ùé\V·Ñ¼gÂ™™õauwî&$…Ù, Y~±1áV–ÈÍ}ÊÌ#ö–-½_jn~ŸôÔ’õéIÉ‘Û;#M²Å²Mk\x<•W¾’S—8y¸¥²v‹‡–d²Èàn)‹§m9ğEM‹éÏò?&ÏŠmù]ØÜ]yŠä‘““11!ØR)Ãp¬¡ƒ´³GvJš2binæ¶/NšÜ®´êú7òü[œ³*iJäğaÕ“ßÁ·ï‹’¤§§ÆgW–—]¸éÌ0–^îgŸM>:Ôë]«eä<‡û}”0)bå¶òwZú|å'àğ–eÒòYSY<3V.H«…j=º=5<°“|×Ù¥§Â‘wI/ÈSŞü5“·ÿò:©Ëf)Åä1\zşFÎöº”ÅÓÇÆx»ÿSÏrïò„üÁø8¿Y‹óöv`K\{IëbêìqV?—\‡¥ç¯;üÊùGOOK‰SÎ[#ù›Òs¾‹œÛâÓ—2Š·Éu.Me¥à‘DÀPï÷'L6õBiï)buÇÏÊE«^³«o˜úÖäú×ÏÌ‚ÌE<…	gxt*ƒÜ­»ıKùÅ[ÒZİ´gÿúO?Í(ÚÖ¼Ş•A>{ªaÿ]WÌ/•W¿–#Ù°ëóõ;vlŞ{ ğÄyI	uwîŞ§“óKmıE§.nŞw ÷³rHòå¨
+©¸ü¥œ7'¬ñäËKÉskÓŞı’lä-ä+Ø¸{ü/W¾rş-¬~(	ˆM'YŞ4ïÀá’3Wïãy¾çœH>–ïİr5îØ±aç®Íû–œ¹ÒNÏåŒ¯±’³×¶>¾ñó=ëw|Úx™Iş“œQsó‡†œw—;•C?®Ÿ%KûmÃÎ_/õŸï–+_Â}ÃåÄ‰á”[rmNñëÿrî§Ÿq®  „3 õ·µ`ŠÍ9@Cßh½‰É  Î€æS¯~4Sê"Ôë=æe @8™£=< £í2åÃû:<A  Â`‡-|ò7›¥ÆÅz™¬‰
+  ápÊšª
+ïÏÙì?KœafsC  g€³f/µ¹Mµ[§Çf-˜bW¹v  g€c‹~š45ÊvqÚ.O.ÈZò£ €p†ö¦òêÇD2³ñŸÃ¥ù  œv(:yÁ²½’‰Íƒ×TUpº  „3 Õ•œ¹²iï›
+Ÿã\ g    œ  Î   @8   á  €p   Â   á   „3   Â   g   „3   Î   g    œ  Î   @8   á  €p   Â   á   „3   Â   g   „3   Î   g    œ  Î   @8à¤ºÛ?—]¨/;Ãˆüg	¸ª¯«üB+.É)áx¨ºğqàXäöVÑÉœ%à>Zœ“nô	‰aœ"Î€‡JÁñ³¾}_úñÿYåÖéqùÎp¥¥Ï7ú…Š˜¨Aœ"ÎNµ·®¾ñy57¿¯»ıçp´C¥ç¯Ÿº¤+9sõA¹‰Î@8{D­©ªÔeD`g“"ƒ»F‡÷9 >>púÜ‰²—®­®*<~¶öÖOœLÂpÕÔÿêı¾_¿¿è‚ÜŞÚzøá„3´_«¶mÚ±ƒòû·É½ó|zÿ9Ìçƒis&¬­©®¹ù=g•p´=i(ºuzÌÌ]k~ÆÂgx˜ÃÙ=‚=ŞN]>‡¹ä„3 %Maò652´gõïg œáQ	g†úûÜ©WXéM8Úd¶Ù¹ëCşaòåÑõÉ¼‡	g œáÑ
+g;Œì¼aç®íwîr	g@«J/È39¦Ùhö¢i„3Îğè…³İZ´v9Ëg@ë©»ıó„ñvİš‚ÜŞlÿe–	g œÎZ‹{—'¤‘Z[ÿ#g›p´Î˜æ5ß¾/Úu_rëôXîg;	g œág+:SWÌa; ÂĞ–mÌ6º’½{=oôŸ’gÆÎ@8ÃƒÎ<»=7ÎwbBH3Áqc}Fèæó_ÿ—İ:>f¾ºrk.'œp¸ÜèÈFWòÌ´I]ÿh0²ùVÅå;„3Îğ€…3ÿO^-=wİê?¬ºşmá‰sÙe“’GúôyÁL>óğÊ–ƒG8ç„3À…ŠN^ğìş´õË¸ãcÛøØ¨G?»²ŒpÂpöûTÜ;w‹Ï\:{œQó´¹±cÜ]R¥VŞT^§êê+.)m_Qyå«êëß>œ+äÃÖÿPuíëÊ+MöËªkßÔX¦ñİmÏá¬îö/Õ7¾«lüš.ıö5İø¶ö>p[çú·r§ñK9°š›?´âÛİ‘ÿ½•?®RËÁ\ÿ¶áHn[ÄòÙ¿·ó³|'aEãExé×x¿>Ns²–ıØúM,Âÿ?räSSâŒ®óÄÉÃå\|É‰ºúõ¯_zÃ÷^e9Qß9pÙÎ@8#œ9ÎšDfiaÀ'µ9ù,£h«ÃG+7¸Í{,È\<qbÈˆÀÎÿæÕãOî]ğìö”Oï?‡z½;:rÀÔÙqEÛŠO_ª3QÂcó¾ƒ+¶äI/È“§©½¹õĞQå5E¥¹òoòÌË?zjÉúŒ¤äÈ‘¡=‡¾áİëyù°]ôéı|Û[Qá½ä?-İ%æÀ²õÂYÙ…ú5Õ•³Oë%OGÿ¯4~M]Ÿôíób˜Ï±£İf-˜²®¶¶üâ-ÇŞB>¯\HVOoşÑÓ-£|áñ³‹×­Šëæı¾OŸ¤!áÙıÿ¯Ê‰•vEve™ÄWı¦$mü|OZÆü	†è(?¢_¯ÒîOË[‡ù¼?&jàôÔø¬²â’³W(4Sxâ¼Éşë×qşÆŠ¼œø‰A!ÿ²Iç?xv{Z¾ùÌ|•ëêjS—Í‹ó‹øxØ ¿{õ|V>‹{ç'¼º?ã×ÿeù6ÇDš2}ôâœUòkrà÷â$¹¢ÂziÎŸ,#ß¯|j« ·,9?.Y‘]Q6karã50ğµ†Sm9Qò½Ë*Üï£˜QC¦Í¿|óº-¾ÆU[†3¹s®Êß¬ß—”-­@8#œÙÎäÔÕIH²Q›;¤»I¢êú7SäQj4~qO‰5¹&M‘·ÿş²«K
+ÜŒ?¾Éyv¶›?Ş_9¶ÀÁÿ‡·ÍÉ,-Š5Ô×Üx±<òåA›]Qj×vÎ­Îäş.Y'ØıŸf*NÉ[{¼3c^bÑÉóv_×¾öğŠÕ—š÷¿ñâfò¬±~ı_ÑdD`—ôÂ-µ·œêÒ«¸üåÂìeòRfz‘İ:>6lğëk¶}qÂ®wY¹uƒ™.jn~¿hÍrù:¬şÆ‡|¬EÀãçf¦%»¿-'Çle×nO…z¿7)yäÚêªVí’l.ïÀaïÏİr¶o—¿)¿X/±Òè°Óóœ:€ı‡'M
+òóp½z<î÷ïi)ãåğôß¬KÂYmıÒd5ê\l$mİ’3Wx Îğp†³ÆeSúMJÂPÎvÅi’†ù~hşŞ÷ûM°û3É3c¥õoôâ5õ?zMy…‰	!vzH+\§3Ó&é(ÇDvïü¸ıKbŸ;Æ=ÿÈÉûÎäƒOO÷êñ¬‹y%\¦,f×~J8ñxç×º-wîæ~ö™%š˜^Sœ8)¼òêìÉ+ŞfI¥ö¯}öîõœ$Tóß(œé!×só™X1£†()Yş«õÅÍ$(‹ÍœÉ ··R—Í–´ÚÚw0yÃJfCß”hŞøgñƒçZÄx:œÅgÌK›Œ3e†Âı>’ m4Äì|8“+sÖ‚ÉzÂó~¿àL	gx¨Ã™<c¢ë·¤¤)#Ì÷ÆÏHK2Ó¡ˆğÿÏ–ƒ_½ÅÌù“µEvy9ZIŞîÏäí;¨üó¥²|û¼èÌ‡õğJfiQ‡³;?—ôìd½i»›_/¢„3ÏnOmÚ½WşfMe¹'3fÔP%Í[Uyå«äY±ò uæãG†t/8vÆ™pæ×ï/M{Únûâ¤„Tı’Â¬;âİ\Q^G¾ˆâÓ—ZõöU}ıÛáÃ:)-«¦Qãô‚<åWYzîš½o]ræÊ¨ı]Ri(pÈ?ŒÆ÷gi«ÒŒ†tİjoğëööİ‚p†/œ‰uµ5]ŸÔoU&ú'$™%%tI6iCo6HEyûéG›QlÇÈ¦´Â•—ŠŞ×¨‰\wç—…ÙK|ÀÿÚÕûùŒÂ­mÎäëöëÿ²k¶düzã8”3áLÌ[•–ä”ÿ€WÛvLêæ'ËW]ûf|œŸK®Ò0ï÷Í<&Â™ÃšêJKŸÙ©‹á¾Ù|»isÆ·ì¥NœáªÂ‡&ÔµòÖm›÷î7ê”|¹<o]óĞéÑåI£ó¶d}†½“_ÇDrUÈ™iIFSg+òÖy¨·¿~/[vØãQH8Ã£Îªo|ÜU››ÒåÉœíu&æIŒs`(ÓH¨÷{òĞ²:ˆ3:òåÊ£×ü¤`eLSKs3ŸÊÒ3¢½…6SKÂYîg;ıúıÅ…õŠıû¿²±¡ßË™pâù¯ÿÿ8|òM-È\læ——0)Ü…eœ‡ëØ4gw8ûøÿf/L®¾şmìh73ï•º<¥åİÀÍEŸÅ½óÖÕÖ¶öíkúÜ‰FàÛ÷Å¢ÿ3—qL”aşèÈvÍ×œ»"ÕU'Jî[uıœ³;w3Š¶zõø“òÏ}û¼°¦ª‚‡ áJ8Ó'‚4JË˜¯¿ÂÒYzo|3fï’³¬Îø^º!S9	rƒ39hù¦µJšôëÿrÉYë£'?ßãÓÛüŸ&Ãhù¥Û­Î$ŒšŸÑe^ˆ×»6õpæ’t[xâ¼Íz.ó3˜/oö*Mšép8ÖS~Y&sÃ’ÜÕ÷´R$ºêé^}ı›V½wÉ¹½et £Fô¿çïç¬ÒÒ¡c¦Û`×ƒ†¾áª7ÎGé_t8œ­©ªÔËOzv{:½ ' áV8“F³{g­;}B| ~ûóë÷’~SöxgÎÒYÒòËÛwHÂÍªüÍ‰“‡®Ûúm}\v…•š“Å§/iC`;¬Êßd¦Ô¸X/}mÑŒİÈànú‡õë÷—i)ã¥)¼yï‘YV<c^BÀÀ¿éÿjöÂ©­Î,ƒÎ­“&O­¯Ãhíp&¦ÌŒÑ?~ş‘“6×&‡ù~8wEêÚêª¼ı‡6îÚ-¹*>>PŸBîÑå	}ÏG%œÉ·æazdü•È›öìÓ—BKc)*¼WòÌùİ	¹åWîûaËx*épÑÚå­}ïÊ©«UÚoó3¶ø¾NyŸùù«š|ßÌÒ"=şzt}rôÈO¦¥ÄI5eÉŒis&ÄóñüWË–›[§Ç²ÊK]¾ZS.6½?Û½óã‹×®äñG8Ã#ÎÊ.Üôîõœ:ı¹›áVèwîN™>Z™6©ea*i€æ=e™¥kü‰FuµZÈC‚V;7ÆÃf=*‰2ê±ƒÑHîòÍk•–úø8¿†.·{ üâ­IS£•ß~/ŸºÔJá,wç.ÏnOÙX‡ØóÙø‰Á+¶¬ß´{¯D™ÍûJc]NµÍ=ª%¾¬W—ôšgò^É³b³+Ë
+)=CĞ…[Æq7œÔl€µğø9eØhÂ„az]‰Ôå)-ç®IèÜrğˆÇc¢+Ñ*áÌ.¹Ÿ}ö?ıÇ¹™6Êïéx–_œüŠ‹Ï\Y²>cLÔ ¦ÒlpIñ0İ¤©QÊÀtËÕò]D‡÷Ñºún|gæ}g-Ğ–ôwù~ïùúäK¯©ÿQ.§ù™‹äšFC½ßwy)y÷À!ÿĞ—ˆÎKO³k„3<$áL(#³‚*İòÖŞ;ÌLKR]å—nG…õ4nÔşÑêS?gÇå<øõ¹iœq‘,}Ñjå'Ër3ƒ½ešê(Åä/ùL9WÊğ±3áÌRÎ-ÎßÆêË .›öì·úÏ·9©L j6ı““áLÆVk‹ÔŞşY2±Ş~×,3:€-¾Pú™äìÍ]‘ª<ÿÊÎßTÖ·zõ|vó¾®
+g]ŸŒğû÷„	’*æ­œ+æ”ÅÓ&&ıopŸ½0Yë÷Mµù“Ïÿâ¤äÑpß§µ¨¸ærş‚†¾iØaéó¡Õ[DêòÙJ¿`ŞÃfŞzbBˆr¢äÜÚªôKŞşC3æ%»¿½ k‰µ–j8kYD~³a>èë]¤e[{ëG}„3<¢áL)ÛİPñáÕâÓ—­ß2è)Çf×Í{(Õ7¦Í™`mlñg­ô@Ç+òrôblcc<”Ã³t–áÊVã.ÏnO•}oŞäfø”ŠèkÔCéL8Ë?zJïı’h®ÇY‰æj*•Ï¾íğqgÂ™œ¥ãĞ2c,s‘²ÑCŒ¢^edhÏêßÛú¯V¾úÔe³gr“¦DnÚ³¯êªíı”Éõv-‹iÜQ­µo\–±Eãn3æ%MîT"õìESm¿õ»z•i£·¶:¼`óV¦‡³ÄI÷¼àˆÀÎ6ê§L
+o³úÀ œ¡=†³¸8?}’Õ1£êßÉƒMù‡F[ôëø/ˆëdõ8wEª>²©tä”œ½ªÜô½{=g”3¦ÌãÌÜğFóVÎUF£Œ2–3á¬a7C­un¦êzÎöíúØbê²gÂÙ²Mklöaè‹:}úüÙêğ\åÕÿêuİVçÛÏ^¯-5¢óŠ²„3ilä~¶Ó|1‹”ÅÓõ}ëêj··ri“ä‹‹Ÿ¤\ºëw|j´º6Ìç}¥Eaf‹ˆ„¤puzèK.ÜIgSgÇ5Kfõ6ê®uì0~|@U+¯Ò áí=œ)%¹'å=Õò_8çe<©ß«çŸ¬–ÃhiIîjókì›æ+ë	¼{=¯¼õâu+õíŞ­;Iz8È*/1YíIé)\[SåÚp&Ù7v´»Ö»éõ^ÍÛuÂ,ELF~¢—¥u8œùöyÑÌ[ı‹ë?µò˜ÏÛwPÉâ>½Ÿ7¹Åä\ãTí?àU£Â¤fÂYĞĞ7­ş¾´ŸÌú³÷ú½$¡¼íwÏ´²`èüåÒU¦Lè„îÿûé§&æœM±Y®oÅ–õ&g°9Î$O7ı”Ãô£’–€Ã[Ù‚p†‡'œéíKË€µÉ@«K
+Ô*PL¶ü6ìúÜx¦|‡Ÿï¶6²ù£^ jÙÆl£·9À8å<&wj«ÿJ2¢ª¼züÉdõ’³W•­d-um8«¾ş­¾ÃıŒ¹	&/’…ÙKõ‹Ä¨ˆÍp&ØÌ”gË
+>uYÃÂìeVë¼hİ"úšÜ£3»¢Ô°öJÇ#Ú6Ã™æ£  IDAT\TVW%ëÖïØa³Òm¸ïGãªÚäÊUô3ĞĞß|Wù˜ZaŞ”ñ¶ï™ù›Í”y‹î*i¾š±á¬©ßüÕ‹llĞäóÃwrÎğpõœÅêUì­=ûg/¦ü«1ÑƒËÎß(¿PoSîg;•ŒEÖè§lVîq£G~bõ_ÉQºÜ¾f´Ã`ve¹ÚùñFÁ±Óf>lá‰ó!ÿ2zés'º6œ;«?™²ÊŠM^$wïõì¦L«lmMµcál¶­yÙ¿P^ùJ œ:klË•<3V­ŒXvá¦™/nMe¹’ÎsêêgãÆz+CğJg¤¾ˆ§yóÆÀ+³æOŞvø¸oä¼˜QC”ëVS®»ı³¿qÓ"ØıŸzuÀÆŞ}³[btì §tîŠ9E§.:¶:Rg÷k««ôTæı¾Í¢} œáQ	g±c´‘/¹»[%œ?LüºŸüU©»8'İ`Šn}à×§İ<]|ÆÊ"†EëV*çpÊŒ1ÍÜrïòÄ°A7óa‡ş»²ïSâäá®gk«+ÕÉIO›¯çYröš¾ÉÒ’õé…³å›Öšš½tç—˜QCõ Ór¥gLô½€ˆÉ«T>»R1+½p‹áL¾8£h{˜uÅ»ÖJûg\¬WfY±Í‰í.$AG™ù ©±ì¼-’¦D*g/«¢ÔÖ5swRr”]'Ê·ï‹	IaëjkìÍ²z8[]’Ÿô´^:hè›yûó¤#œpö+}İPĞĞ7¬Nµ
+ïİª•E«ZjtØÚ}k{ğÉİvLÔ@¥aƒµ!Ô_Wü¥Mjƒ?1Èê<n‡Ã™´×•·ø7£u¸Ö†’
+v[yµYó';Î²m=bT«¥t£Âz¶œT>< c|q+·æ:Î,Kmí&©¼úßP¯÷Ø©iDP¹*+º”enœñ-«eu	{çNHcÆæ*Š¢“ô‘}£áæèá}W—*•€ì
+gr‘ë[ÏI›ÍÌfh œáQ	g5õ?ú«ÏÎ¬N˜õ~¯{ó3yŞşCÊ	5¢ÿ=7Öm_œPv^’‡VñK¯|ë*ããüê\ÎôFˆç;¶†šÓjLíX8[obf÷o9I-ñÿQË)w.Ü½G´Êv œ|Í™¡Æ-+•Yll‡àóäšÖŒhòÑô5‰C%Ôê¤mæÕããNıWlnoj©„RW«ü|t‘ÁİÖïØafb¢ş[S
+:š™)Â¹p–ô´¾GMLô«İ9Ã¿~Ã™%.ø¬l|Ï:}Jû‚¬ÅOËsi8ûÅ…á,uùı	]iÏlq½^Bb˜cálã®İ&`ö¢©ê.ao·|kÿVŞ9Ê™pâõ®“÷„-¾px“M÷.O$NŠh½:g[µY:Ø}–Û6š8˜»9Ûëäòpì-<»==}îÄªkß8ÎÌğëÿòæ½xÒÎ@8kœYŸ§LùRf©K»ÿ¾‡3}*Øâu«L¶ã}û½TpL+!7Î÷Ags–ÌÔw“l¹³–":¢¯’Úgvî2ÎªáÌíŸVŞZİ¸ğş†39ÿÎßÊ/Şšš2Şæö\†ÌÃû¶ÒöMóÒÓÚàÌËÓô¸K	IáúJIeéë¸±ŞúrNçÃYCG]×6(ÂÚ8»«L¹mÜùÎhÎ²¾+\Û„³¢“•Ô2jx¿¦ê …'Î)[/ O^Q
+i¶çp¦Wëõz×huªU#Cz8P†×f8ËÙ¾İäÌ˜— ï3f­çìÕ‡;œıÚMuøXüÄ`e%²VUkä'•W]\MrÌˆ .mpæ½zü©ôÜ5³vçî†]»ÇñPÖëUş•`—„³Æß›iÎğ¨‡3¹¯éKn÷Û¾8aõß†y¿¯/#Òİy+·mĞÛÇÇ)ãÇÎÚìc“Ğ–YZèğª±†RãqÉ‡µ`Škçœé…[‡¼a×5£o8mÎxÇÂYfY‘É˜<m”¾C¨•9gê¬¬`÷·]òÅe” n³pÖ¸2qóŞÉ3cÌh¶zFÓwÀæ}ë£²¿OËÊÒ'êöÏëwìHHSf +«k]ÎÜ:=&—Ï;Âép¶hí
+å5»Ù­öåX¹Âû(ÿpŞÊyÕ7¾s^­­ÕR«K
+”.±¦·Rà^â©Í	%úşŒãÆz»æÃºzoÍÕÅÛÔ-^(8vÆüòÀ@u–áÜ•sgK7dš<†q±^Zi½¨AVVkªS²–ä®vÉg´¦¯-ÃYSÁ‘âS—æ­šg)„¦ş´ÿgiÂ'uI•ü&6Kó»Ğ˜‘Í¯©lÑäW#Ç)wNó'**¼—Ñ‰2Î$ä)·¬Æ"#[|Á#p†G4œ•œ½hkR¿Üå[Àhµ"hkg¿RÖµqJŠœß>†›ËÚTQ u)–“åÅu‡³­‡ê½¹Ÿí4yk]ÿ¬ô¾MÍ¶Îf¦%™ú¢¯3|X'åu&Mjñ şeÜXmS%3ZõâlûpÖ<˜Ê»ê¢ç {÷3µN³şÇwÚ,œy÷z~ëÁ£NÜ@¾Yœ³*Ôë]}êmS·–Q)2“á,`àß2K¥U¬¿]dp·r{VRƒp†‡$œÕŞúÉæoú®D’ÛôqŒvƒv9¥[Ëÿ“¿J9»²Ìè%ÉFŒÍ·Xÿé§zK·´ufU;Î*¯şW_1·0k©ÉcÈ*+–'“24œ·ÿcá,fÔP3=Å§/ûôyAí¬µÒu7sV}clŒg«Îï¹á¬)y¬Üš+ÉÃfh˜iP¦Î9Ûë”JË­!-c¾“Ç\qùÎÂ5ËÍÌ£]š»ÚápĞqËÃ·ß±c<ô?NËSp†G+œÉ­aÎ’î¶&…$NŠ0Ó´Tª­Ñ'«¼Ğ6g&ÿÈ)£f¨G—'·}q"uÙlãÙÇLAÎ’³W}úüY)`ëÂ†3ù¢õ%–±£İM	M=Ní½xÎ¨ïĞÌÆçf*z¬.Îw`+ªô‚<½¬]K"¸pÖ¨ìBı¤©ÑJ¶nØÉ*ÀUo§o™ÕØek/ù‰é³/\2,+?sKfRG9gÌKr œÉjÂ„aÍoÑ…'ÎëÒàI/ØÂƒp†G%œU\º=eFŒÍéº¾}_ÜrğˆvÇ?cØ ­šÆì…ÉmtrîÜ5¼ŸájÓ‚¼q±F¡jé†,“#5cFT«ÁV‚ìı
+g6lJxµº«ı½GÎ^Ó$JE›áL©°ßœŞÓ`Ù°ËÚn…ÇÏéÕ4æg.zèÃYã<>Î_ß×%oT~±^ßIbtä€ŒÂ-öÒŸäNWMÒ’Ëu¤Z0vÊŒÑ„³‘!İkoıØ²½¡×@aòáD8«¹ùÃê’}âNÓ¢óõêu·‘¶ Ş-±õğ±¶99Ë6f¶tÓ’"üÿm¼Ñ%“o1õ"}ŸÄŒÂ­í0œmŞ{@‚‹ZŸ,ØfçÙœ¥3mÕ’XãL8ĞQ¯æ°a×n½9ÜÍjßIí­ŸÕ=»şOÊÙ{hÂ™X‘—£Ü@bGuÉ»d•—èß”r©hµBõTkeÏ^4ÍU'*uùlm´qV¬á,¦Åj•í{¿&Ï«ÿ4¢#úV^ùŠÇáQ8»sWò“´˜«®}³iïş¹+æ„û}dr.ˆ<,+.İ1s#vïü„ºõSgó»7ş¾ŠêØé™i“Ìo¹h8sÅ¨/v´›ÑTËFã¶öækÖsÖ¯ÿ_Ôfî«¹¦ë©6­­+=}AÖ’y«ÒZ)œÕÔÿ0f¤º©_ç'æ¯^h´tù–=ôö½åÚ»æL8sëØ!)y¤ÑšÙ¢S—Â}?Ò_!eñtÃP²e½>¢g)Äjb {Æ‹·>>mÎ„õ;v´}8[²>cjJÜ¶/NØµûÓÒYÊààÄÄP—¬Mœ¡îYùdÉÙk¼²$ï‘!İõ*w-ÏÆì…Éra¼`×rN}#
+£+ÍpÖ8+T¯P#÷|KpÓ·)ÎĞ¾Â™g·§ããƒ’¦Œh$±câÄà±c<†ë¤O£¶:(ïÀa“wÌ¨P{Æ…z½›]YŞ²K¿E†ø±àØ™å›ÖÆDiL«LmÌò{45Êh>«]Gò.ëjªíú
+&Omk,ø¥¥¹™6sHh–ÌšYZ81!Ä»—¥ØÒ”™1­Î~ÍĞj(wïüxâ¤ˆ-4Ÿ7Ö’-µô·†å–“”NV3á¬iş_Îöº†
+éw›¦i¯.)°¹ñWÏgóöR&Å‡ù¼¯¿B¸ß¿¶PüÉæÈü#'—¬_=jx?÷ÎÌ·¦²¼íÃ™4´ç$E…÷–`½åÀ6wz(¿t[N¯r0©Ëf;ª¸t[D5¢­ıe/¥,™¡×§hYÍX®êÆ±û˜èÁ’h·}q²úÆ÷¶Ö\Ò+8!s,œ‰M»÷z«×ä®ÔWáí:œ¹ŠOï?75ÛP[[]es	ºG×?‰´d}ú¦=ûJÎ\)¿t«üâ-ùl=t,§®vÙÆì©)q#C{ÜSíÂ¾p&GRS-íróŸ4Ôû={×“Z*å$~›ùÔuŞªyë?ıTšì¶ôÜõü£§6ìÜµ*Ó¬…ÉcFø7·fßf«†3IÆrşm[ïùldp×ø‰A“§’§ZtD_3{ôš¾òÃ|8k!ÿ’ó3a|@ì¨¡–&j™Æv×ùrÚİlıv¼º?;ÚmÙÆ¬Íû–œ½*i¦ìb½|ã[•KK2wò¬±#‚º6¯\zÃY³†ÙSşÿIš<bÙ†¬ÜO?“cnZã"§EÒFFÑV‰qúĞ» M’a«4OšÃ/.?(¹“hå{Râ¬†³f«”ÔeÊŒ1Ëór$É·ÜÔ£&¿‘ÂãgWäåÈ™ÔoeGO»6œIÃFN‹~~İ¨8gxøÃ™$ÕÅùuöt¡ËëuÛ›÷ÏËSDm>}^ÒXôêñŒÒ£co8«¾ñ]˜ïæ?¬c]‹sV™,}.íuï^Ï5~X9±},ƒo°UÃ™ØrğHc‹ë³wzÌf	Y»Â™#xwşƒÍ`!)Üì\r•vú÷«´WÃUjX‡¥]„³{Æå˜ıú¿8ä ¡oúø«üm^±ò—57]PøF¯,?£z+¦¦êÛÚï!Äãi)á¬å½ÈÀ+Cş!/+gÌ»ç³úğwcÏŸÑ‰r8œYî]7¿·YYcÔˆ~ví„Â’pâù¯»>wd}Ö¥ÛÒ.wùñØÎÄ¼•óL¾¸ÜšOœsàÃÊc^Â¨™z•viíp¶ıË»K7féHH
+3³ü­UÃYBR¸¹Y‰WõİÛ»½…3Çv@Z´f¹ó7¨¢Sõ~e9ÿU×¿qæ-&O‹Ö›
+÷T´1g‘æÖê’£cs&œ5öÊû÷·ñ3±¹H„3<TáÌ½Óä.æLY²ÂãçL-måp&ÁäŠ‡ØÑCíšL}OÚĞ—©¶ËpÖXÜn¦w<Œ‰j¦ˆ¹Î¼{?ïÛ÷EgZ%gÌ®8ÙöÅ	e3	Ç:‚p6:r€KÖ.İ©œNOwò-2ËŠì*ÍèÚp–ªL„p2œ5¾ë·/®Of–ñ($œáágîÿÜ-»¢Ôá¤ò{)¬s×GèïÂ.%Â™4+m4v8¹µpÍÍï§ÌãÂ2èmÎçø§e,Ğ—^šì1çor{=œE…õÊ©«Ó·1Pv„´·¯WZ#Cº»¹èwôôœ…û}ä’bÑrÑç5ZÖßÔÖ8ù.;^h£ó~ı_n¾ÌÜuá¬CTxï†¥*ÿ¯õÂ™œÃ)ÓGë7ùÀ!o˜ß„3<xáÌ§÷ŸÇÆxJ;ÌL}|ó³¾R—ÍVb„]C-«‹ó8†ŒÂ-6ÏRÛ›eNï¶$Agå¶z½Mó,«å[?œ5.kÍ®,µ¬GsğZòéó‚|ËæÓ¼ÎÂ}?”'îšªŠ€³ë0‚†¾±ñó==àg-˜ì’xÒ¶É©«}@Ã™\61£†–œ¹ê’ßşÖÃÇõ„=lĞkUW2Uwç—¸q¾6uù›\Î<º<™0)üÙl­Î¶7”ğ`cğ}LÔ@&ŸÎğ°…3¿~‰ë³híŠm‡×9º¦]ï»ÚzèXÒ”HïÏ:úÀ{btdÿ•[rm¤°ªìÂÍ ··lmZãªÏ[zöÚ¬…Éö‹æ4Âÿ?óW/Ô»2œ5öùs–ÎòëÿŠ½O©ø‰ÁyûÙ5ñEgÃ¿^ÚPøjËÁ#±£†š¹ÂåóÆÅù9S9VóŞıCõº¦úª½˜èÁE[õÒ­ÎÖÕÕíéL/u¨÷{K7d:9¬9¹†]25ĞÌà©şFãb½šZV_:~Ûì0|X§ÌÒÂ-X—„³í–zËŸëÛÈÇqaÅ]Îà¬ÕÅù~ı_–teÂË‚=Şğÿ÷˜‘'— ±rÛ‰M•WÿÛ™¬e/i‘/Ì^6&j¤
+e•bã³Ö³ûÓrØr¨rƒ“ÔèdgŞÌù“”“c³³T¬Í¾¨ŠËwä10>ÎON»|å©)ÿIÎ†OŸF†t—ãÜøù£-)ÿw.İùÏ}"ÿ¯:42u·ìüÍe³å;’ã1¢uïüïÏÉ.eÉÌü#'¸xlÌ9ëùlşÑS¿ëÔÿ˜YV3jˆwo+åièîõXW[ãü(|cßgñ©KrÉÑÏ·Ï‹–:,¶®R9Õrx²–;cæ$½)—btxÇÖëØrğè¼Uób¢‡ÈKY®:u¥¡|^=	ò¹d•W_ÿÖ…?9±cÜõ›RfI¡KŞ«àØYËâJã7
+v»yIaù}É¯,eñŒ¨°^r/’Ü£‡ZË‰êù¬¼Hò¬ØœíÛÍoÙ¹hírå¨ìÚºT¾Vıdô÷ÜÏ>ã™H8œš&²ñóİéyÒ¶–Œ8-e|òÌØisÆÏHKJ]1gÉúô¬òÒ¼‡«\ú´¸_jnş°õĞÑÕÅÛ­]1{áÔé©ñòa§Î7c^bêò”ÅëVÊ#Jæfkµ™²õò’ –²dFã$G²xú’ÜÕkª*Ìïpå@8“'eËò
+Åg.KJ“FÎ[ãÁH„Ê®(Sö!pRÅ•/s?Û)	;-cş¬“§¦Ä5^¥3Ó’æ®H]š›)ï¾åà‘jIºíU]ûFM"—|_ò\Ÿ™6iZÃñ[.<ËñË¯,cMU¥dk—„Úú^´yïÌÒÂÅ9«R—¥ÈÕ%§¨é:weê²MkÖÖT?'ÍKnİ œxhÙ,¥±q×nÎ Â Î €p€pF8@8 Â Î €p „3 „3  œ á g g @8 Â Î Î €p „3  œ œ á g @8@8#œ œ á g Aµ·~Ê*/É(Új¤âÒmÎ Â   g   „3   Î   @8   œ  €p  @8   á  €p   Â   á   „3   Â   g   „3Î   á   „3   Â   g   „3   Î   g    œ  Î   @8   œ  €p  @8ã,   Î   @8   œ  €p  @8   á  €p   Â   á   „3   Â   g   „3N   á   „3   Â   g   „3   Î   g    œ  Î   @8   œ  €p   Â   á   „3   Â   g   „3   Î   g    œ  Î   @8   œ  €p   Â   á   „3   Â   g   „3   Î   g    œ  Î   @8   œ  €p   Â   á   „3   Â   g   „3   Î   g    œ  Î   @8   œ  €p   Â   á   „3   Â   g   „3   Î   g    œ  Î   @8   œ  €p   Â   á   „3   Â   g   „3   Î   g    œ  Î   @8   œ  €p   Â   á   „3   Â   g   „3   Î   g    œ  Î   @8   œ  €p   Â   á   „3   Â   g   „3   Î   g   hÿÿ[ì\òö>    IEND®B`‚
+------MultipartBoundary--ZGAndevhDrmSssjuhz5WJuDbmLSgduCbEkS7GijD8w------

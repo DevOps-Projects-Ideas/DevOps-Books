@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//Microsoft Corporation//Outlook 11.0 MIMEDIR//EN
+BEGIN:VEVENT
+UID:2383461ab09c545af9
+DTSTAMP:20211204T062509Z
+DTSTART:20211208T080000Z
+DTEND:20211208T120000Z
+SUMMARY:DevSecOps Forum Middle East and Africa: Shifting Left on App Security with GitHub & Microsoft
+LOCATION:Webinar
+DESCRIPTION:https://event.on24.com/interface/registration/autoreg/index.html?eventid=3476973&sessionid=1&key=61421178137122AC21E295E968EF57BF&email=rufaiilyas@gmail.com\n\nCompanies on the forefront of digital transformation have seen DevOps provide software engineers and operations teams with a faster and more efficient way to develop code. \n\nUnfortunately\, while DevOps practices have enabled faster\, more efficient development cycles\, they’ve also uncovered a new bottleneck—security. In the past few years\, Microsoft and GitHub partnered to offer a fresh set of DevSecOps tools and practices to shift left and tackle as soon as they arise by integrating security into delivery pipelines\, leveraging modern platform capabilities and fostering collaboration between the development and security teams.\n\nIn this event\, Microsoft and GitHub architects as well as top ISVs and partners will provide a comprehensive and unique overview of the end-to-end journey for DevSecOps and Application Security practices. In this event\, you will hear from our top speakers on how GitHub Advanced Security can help in protecting your code\, enforce code reviews and business policies and ensure integrity of commits without sacrificing openness and collaboration. \n\nFurthermore\, we will cover how offerings from Azure Security Center\, Microsoft Identity Platform and the Microsoft Graph can offer a complete lifecycle for security both the application as well as the developer lifecycle.\n
+END:VEVENT
+END:VCALENDAR
