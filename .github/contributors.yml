@@ -1,0 +1,38 @@
+name: Add contributor to README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  add-contributor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Set up Git user
+        run: |
+          git config user.name ${{ secrets.GIT_USERNAME }}
+          git config user.email ${{ secrets.GIT_EMAIL }}
+
+      - name: Get contributors
+        id: contributors
+        run: |
+          contributors=$(git log --format="%an" ${{ github.event.before }}..${{ github.event.after }} | sort -u)
+          echo "::set-output name=contributors::$contributors"
+
+      - name: Add contributors to README
+        uses: jakejarvis/readme-box@master
+        with:
+          box_title: 🤝 Contributors
+          content: ${{ steps.contributors.outputs.contributors }}
+          append_newline: true
+
+      - name: Commit changes
+        run: |
+          git add README.md
+          git commit -m "add a new contributor"
+          git push
